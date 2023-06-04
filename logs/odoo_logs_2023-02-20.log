@@ -1,0 +1,126 @@
+2023-02-20 08:12:21,389:INFO:LiquipediaScraper:==== Liquipedia scraper started ====
+2023-02-20 08:12:21,819:INFO:ProxyHandler:Fetching proxies...
+2023-02-20 08:12:24,138:INFO:ProxyHandler:Filtering working proxies...
+2023-02-20 08:12:31,842:INFO:ProxyHandler:Proxies found: 1
+2023-02-20 08:12:32,046:INFO:ProxyHandler:Proxies found: 2
+2023-02-20 08:12:32,848:INFO:ProxyHandler:Proxies found: 2
+2023-02-20 08:12:32,947:INFO:ProxyHandler:Proxies found: 3
+2023-02-20 08:12:32,972:INFO:ProxyHandler:Proxies found: 4
+2023-02-20 08:12:33,027:INFO:ProxyHandler:Proxies found: 4
+2023-02-20 08:12:33,100:INFO:ProxyHandler:Proxies found: 5
+2023-02-20 08:12:33,113:INFO:ProxyHandler:Proxies found: 6
+2023-02-20 08:12:33,270:INFO:ProxyHandler:Proxies found: 7
+2023-02-20 08:12:33,524:INFO:ProxyHandler:Proxies found: 8
+2023-02-20 08:12:33,619:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:12:33,668:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:12:33,938:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:12:34,049:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:12:34,344:INFO:ProxyHandler:Proxies found: 10
+2023-02-20 08:12:34,485:INFO:ProxyHandler:Proxies found: 11
+2023-02-20 08:12:34,738:INFO:ProxyHandler:Proxies found: 12
+2023-02-20 08:12:34,766:INFO:ProxyHandler:Proxies found: 13
+2023-02-20 08:12:35,138:INFO:ProxyHandler:Proxies found: 14
+2023-02-20 08:12:35,215:INFO:ProxyHandler:Proxies found: 15
+2023-02-20 08:12:35,249:INFO:ProxyHandler:Proxies found: 16
+2023-02-20 08:12:35,398:INFO:ProxyHandler:Proxies found: 17
+2023-02-20 08:12:35,505:INFO:ProxyHandler:Proxies found: 18
+2023-02-20 08:12:35,506:INFO:ProxyHandler:Proxies found: 18
+2023-02-20 08:12:35,656:INFO:ProxyHandler:Proxies found: 19
+2023-02-20 08:12:36,320:INFO:ProxyHandler:Proxies found: 20
+2023-02-20 08:12:36,443:INFO:ProxyHandler:Proxies found: 21
+2023-02-20 08:12:36,455:INFO:ProxyHandler:Proxies found: 22
+2023-02-20 08:12:36,608:INFO:ProxyHandler:Proxies found: 23
+2023-02-20 08:12:36,768:INFO:ProxyHandler:Proxies found: 24
+2023-02-20 08:12:38,120:INFO:ProxyHandler:Proxies found: 25
+2023-02-20 08:12:42,217:INFO:ProxyHandler:Proxies found: 25
+2023-02-20 08:12:42,304:INFO:ProxyHandler:Proxies found: 26
+2023-02-20 08:12:44,681:INFO:ProxyHandler:Working proxies: 26. Proceeding to scrape profiles...
+2023-02-20 08:12:47,841:INFO:LiquipediaScraper:Extracting player slugs for >>> dapr
+2023-02-20 08:12:47,844:INFO:LiquipediaScraper:Extracting player slugs for >>> Saadhak
+2023-02-20 08:12:48,521:INFO:LiquipediaScraper:Extracting player slugs for >>> BONECOLD
+2023-02-20 08:12:48,565:INFO:LiquipediaScraper:Extracting player slugs for >>> nAts
+2023-02-20 08:12:48,648:INFO:LiquipediaScraper:Extracting player slugs for >>> SicK
+2023-02-20 08:12:49,197:INFO:LiquipediaScraper:Extracting player slugs for >>> ShahZaM
+2023-02-20 08:12:49,630:INFO:LiquipediaScraper:Extracting player slugs for >>> Redgar
+2023-02-20 08:12:49,985:INFO:LiquipediaScraper:Extracting player slugs for >>> Rb
+2023-02-20 08:12:50,310:INFO:LiquipediaScraper:Extracting player slugs for >>> starxo
+2023-02-20 08:12:50,712:INFO:LiquipediaScraper:Extracting player slugs for >>> ANGE1
+2023-02-20 08:12:50,888:INFO:LiquipediaScraper:Extracting player slugs for >>> Less
+2023-02-20 08:12:51,203:INFO:LiquipediaScraper:Extracting player slugs for >>> d3ffo
+2023-02-20 08:12:51,484:INFO:LiquipediaScraper:Extracting player slugs for >>> stax
+2023-02-20 08:12:51,863:INFO:LiquipediaScraper:Extracting player slugs for >>> Shao
+2023-02-20 08:12:52,026:INFO:LiquipediaScraper:Extracting player slugs for >>> Sheydos
+2023-02-20 08:12:52,380:INFO:LiquipediaScraper:Extracting player slugs for >>> Marved
+2023-02-20 08:12:52,678:INFO:LiquipediaScraper:Extracting player slugs for >>> Zyppan
+2023-02-20 08:12:56,761:INFO:LiquipediaScraper:Extracting player slugs for >>> Kiles
+2023-02-20 08:12:57,584:INFO:LiquipediaScraper:Extracting player slugs for >>> aspas
+2023-02-20 08:13:00,378:INFO:LiquipediaScraper:Extracting player slugs for >>> crashies
+2023-02-20 08:13:03,161:INFO:LiquipediaScraper:Extracting player slugs for >>> pANcada
+2023-02-20 08:13:03,709:INFO:LiquipediaScraper:Extracting player slugs for >>> zombs
+2023-02-20 08:13:11,037:INFO:LiquipediaScraper:Extracting player slugs for >>> Sacy
+2023-02-20 08:13:14,619:INFO:LiquipediaScraper:Extracting player slugs for >>> cNed
+2023-02-20 08:13:33,499:INFO:LiquipediaScraper:Extracting player slugs for >>> FNS
+2023-02-20 08:13:35,674:INFO:LiquipediaScraper:Extracting player slugs for >>> Chronicle
+2023-02-20 08:13:38,405:INFO:LiquipediaScraper:Extracting player slugs for >>> ardiis
+2023-02-20 08:13:55,142:INFO:LiquipediaScraper:Extracting player slugs for >>> zeek
+2023-02-20 08:13:59,330:INFO:LiquipediaScraper:Extracting player slugs for >>> Victor
+2023-02-20 08:14:16,027:INFO:LiquipediaScraper:Extracting player slugs for >>> yay
+2023-02-20 08:18:15,590:INFO:LiquipediaScraper:==== Liquipedia scraper started ====
+2023-02-20 08:18:15,857:INFO:ProxyHandler:Fetching proxies...
+2023-02-20 08:18:16,931:INFO:ProxyHandler:Filtering working proxies...
+2023-02-20 08:18:21,884:INFO:ProxyHandler:Proxies found: 1
+2023-02-20 08:18:22,231:INFO:ProxyHandler:Proxies found: 2
+2023-02-20 08:18:26,325:INFO:ProxyHandler:Proxies found: 2
+2023-02-20 08:18:26,805:INFO:ProxyHandler:Proxies found: 3
+2023-02-20 08:18:32,607:INFO:ProxyHandler:Filtering working proxies...
+2023-02-20 08:18:36,593:INFO:ProxyHandler:Proxies found: 4
+2023-02-20 08:18:36,653:INFO:ProxyHandler:Proxies found: 5
+2023-02-20 08:18:37,972:INFO:ProxyHandler:Proxies found: 6
+2023-02-20 08:18:41,108:INFO:ProxyHandler:Proxies found: 7
+2023-02-20 08:18:42,423:INFO:ProxyHandler:Proxies found: 7
+2023-02-20 08:18:43,807:INFO:ProxyHandler:Proxies found: 8
+2023-02-20 08:18:44,661:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:18:52,515:INFO:ProxyHandler:Filtering working proxies...
+2023-02-20 08:18:57,568:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:19:00,967:INFO:ProxyHandler:Proxies found: 9
+2023-02-20 08:19:01,606:INFO:ProxyHandler:Proxies found: 10
+2023-02-20 08:19:05,043:INFO:ProxyHandler:Proxies found: 11
+2023-02-20 08:19:06,665:INFO:ProxyHandler:Proxies found: 11
+2023-02-20 08:19:07,126:INFO:ProxyHandler:Proxies found: 11
+2023-02-20 08:19:15,059:INFO:ProxyHandler:Working proxies: 10. Proceeding to scrape profiles...
+2023-02-20 08:19:18,290:INFO:LiquipediaScraper:Extracting player slugs for >>> Kiles
+2023-02-20 08:19:18,406:INFO:LiquipediaScraper:Extracting player slugs for >>> aspas
+2023-02-20 08:19:18,406:INFO:LiquipediaScraper:Queue: 499 | Crawled: 1 | Downloaded images: 0
+2023-02-20 08:19:18,481:INFO:LiquipediaScraper:Queue: 498 | Crawled: 2 | Downloaded images: 0
+2023-02-20 08:19:19,568:INFO:LiquipediaScraper:Extracting player slugs for >>> SicK
+2023-02-20 08:19:19,647:INFO:LiquipediaScraper:Queue: 497 | Crawled: 3 | Downloaded images: 0
+2023-02-20 08:19:20,909:INFO:LiquipediaScraper:Extracting player slugs for >>> SUYGETSU
+2023-02-20 08:19:21,718:INFO:LiquipediaScraper:Extracting player slugs for >>> ANGE1
+2023-02-20 08:19:23,437:INFO:LiquipediaScraper:Extracting player slugs for >>> Redgar
+2023-02-20 08:19:24,526:INFO:LiquipediaScraper:Extracting player slugs for >>> Sheydos
+2023-02-20 08:19:24,760:INFO:LiquipediaScraper:Extracting player slugs for >>> dapr
+2023-02-20 08:19:28,581:INFO:LiquipediaScraper:Extracting player slugs for >>> FNS
+2023-02-20 08:19:28,799:INFO:LiquipediaScraper:Extracting player slugs for >>> Rb
+2023-02-20 08:19:29,018:INFO:LiquipediaScraper:Extracting player slugs for >>> yay
+2023-02-20 08:19:29,770:INFO:LiquipediaScraper:Extracting player slugs for >>> Chronicle
+2023-02-20 08:19:31,076:INFO:LiquipediaScraper:Extracting player slugs for >>> TenZ
+2023-02-20 08:19:32,174:INFO:LiquipediaScraper:Extracting player slugs for >>> ScreaM
+2023-02-20 08:19:34,415:INFO:LiquipediaScraper:Extracting player slugs for >>> Less
+2023-02-20 08:19:35,037:INFO:LiquipediaScraper:Extracting player slugs for >>> Saadhak
+2023-02-20 08:19:35,764:INFO:LiquipediaScraper:Extracting player slugs for >>> d3ffo
+2023-02-20 08:19:36,295:INFO:LiquipediaScraper:Extracting player slugs for >>> nAts
+2023-02-20 08:19:39,068:INFO:LiquipediaScraper:Extracting player slugs for >>> Victor
+2023-02-20 08:19:39,448:INFO:LiquipediaScraper:Extracting player slugs for >>> zeek
+2023-02-20 08:19:40,051:INFO:LiquipediaScraper:Extracting player slugs for >>> starxo
+2023-02-20 08:19:41,913:INFO:LiquipediaScraper:Extracting player slugs for >>> ShahZaM
+2023-02-20 08:19:44,166:INFO:LiquipediaScraper:Extracting player slugs for >>> Shao
+2023-02-20 08:19:45,167:INFO:LiquipediaScraper:Extracting player slugs for >>> crashies
+2023-02-20 08:19:48,108:INFO:LiquipediaScraper:Extracting player slugs for >>> cNed
+2023-02-20 08:19:50,243:INFO:LiquipediaScraper:Extracting player slugs for >>> Marved
+2023-02-20 08:19:50,852:INFO:LiquipediaScraper:Extracting player slugs for >>> ardiis
+2023-02-20 08:19:55,679:INFO:LiquipediaScraper:Extracting player slugs for >>> Zyppan
+2023-02-20 08:19:57,472:INFO:LiquipediaScraper:Extracting player slugs for >>> zombs
+2023-02-20 08:19:58,629:INFO:LiquipediaScraper:Extracting player slugs for >>> BONECOLD
+2023-02-20 08:19:59,372:INFO:LiquipediaScraper:Extracting player slugs for >>> pANcada
+2023-02-20 08:20:00,997:INFO:LiquipediaScraper:Extracting player slugs for >>> stax
+2023-02-20 08:20:11,943:INFO:LiquipediaScraper:Extracting player slugs for >>> Sacy

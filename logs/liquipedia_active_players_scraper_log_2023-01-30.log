@@ -1,0 +1,53 @@
+2023-01-30 14:29:17,311:INFO:root: ======== Active Players Scraper Bot Started ========
+2023-01-30 14:29:17,311:INFO:root:Fetching proxies...
+2023-01-30 14:29:32,689:INFO:root:Proxies found: 1
+2023-01-30 14:29:34,806:INFO:root:Proxies found: 2
+2023-01-30 14:29:35,087:INFO:root:Proxies found: 3
+2023-01-30 14:29:35,103:INFO:root:Proxies found: 4
+2023-01-30 14:29:35,207:INFO:root:Proxies found: 4
+2023-01-30 14:29:35,311:INFO:root:Proxies found: 5
+2023-01-30 14:29:35,434:INFO:root:Proxies found: 6
+2023-01-30 14:29:35,611:INFO:root:Proxies found: 7
+2023-01-30 14:29:36,080:INFO:root:Proxies found: 8
+2023-01-30 14:29:36,296:INFO:root:Proxies found: 9
+2023-01-30 14:29:36,503:INFO:root:Proxies found: 10
+2023-01-30 14:29:36,661:INFO:root:Proxies found: 11
+2023-01-30 14:29:36,695:INFO:root:Proxies found: 12
+2023-01-30 14:29:36,725:INFO:root:Proxies found: 12
+2023-01-30 14:29:37,011:INFO:root:Proxies found: 13
+2023-01-30 14:29:37,156:INFO:root:Proxies found: 14
+2023-01-30 14:29:37,573:INFO:root:Proxies found: 15
+2023-01-30 14:29:37,786:INFO:root:Proxies found: 15
+2023-01-30 14:29:37,848:INFO:root:Proxies found: 15
+2023-01-30 14:29:38,048:INFO:root:Proxies found: 16
+2023-01-30 14:29:38,055:INFO:root:Proxies found: 17
+2023-01-30 14:29:38,277:INFO:root:Proxies found: 18
+2023-01-30 14:29:38,372:INFO:root:Proxies found: 18
+2023-01-30 14:29:39,455:INFO:root:Proxies found: 19
+2023-01-30 14:29:40,358:INFO:root:Proxies found: 20
+2023-01-30 14:29:44,435:INFO:root:Proxies found: 21
+2023-01-30 14:29:45,961:INFO:root:Proxies found: 22
+2023-01-30 14:29:49,748:INFO:root:Proxies found: 23
+2023-01-30 14:29:49,760:INFO:root:Working proxies: 23. Proceeding to scrape active players...
+2023-01-30 14:29:57,552:INFO:root:Queue: 19 || Crawled: 1
+2023-01-30 14:30:01,672:INFO:root:Queue: 18 || Crawled: 2
+2023-01-30 14:30:03,407:INFO:root:Queue: 17 || Crawled: 3
+2023-01-30 14:30:04,289:INFO:root:Queue: 16 || Crawled: 4
+2023-01-30 14:30:04,489:INFO:root:Queue: 15 || Crawled: 5
+2023-01-30 14:30:04,738:INFO:root:Queue: 14 || Crawled: 6
+2023-01-30 14:30:05,289:INFO:root:Queue: 13 || Crawled: 7
+2023-01-30 14:30:05,513:INFO:root:Queue: 12 || Crawled: 8
+2023-01-30 14:30:06,086:INFO:root:Queue: 11 || Crawled: 9
+2023-01-30 14:30:06,850:INFO:root:Queue: 10 || Crawled: 10
+2023-01-30 14:30:08,803:INFO:root:Queue: 9 || Crawled: 11
+2023-01-30 14:30:08,935:INFO:root:Queue: 8 || Crawled: 12
+2023-01-30 14:30:10,166:INFO:root:Queue: 7 || Crawled: 13
+2023-01-30 14:30:19,186:INFO:root:Queue: 6 || Crawled: 14
+2023-01-30 14:30:21,948:INFO:root:Queue: 5 || Crawled: 15
+2023-01-30 14:30:24,284:INFO:root:Queue: 4 || Crawled: 16
+2023-01-30 14:30:30,491:INFO:root:Queue: 3 || Crawled: 17
+2023-01-30 14:30:30,842:INFO:root:Queue: 2 || Crawled: 18
+2023-01-30 14:30:52,244:INFO:root:Queue: 1 || Crawled: 19
+2023-01-30 14:32:04,271:INFO:root:Queue: 0 || Crawled: 20
+2023-01-30 14:32:04,272:INFO:root:Finished scraping. Saving to excel...
+2023-01-30 14:32:04,457:INFO:root:Records saved!

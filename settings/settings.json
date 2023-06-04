@@ -1,0 +1,6 @@
+{
+    "thread_num":30,
+    "input_file_path":"./player_urls/player_urls.xlsx",
+    "output_file_path":"./data/",
+    "image_dir":"./images/"
+}

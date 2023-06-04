@@ -1,0 +1,1463 @@
+2023-02-04 02:30:07,455:INFO:APScraper:==== Active Players Scraper Started ====
+2023-02-04 02:30:07,695:INFO:ProxyHandler:Fetching proxies...
+2023-02-04 02:30:14,598:INFO:ProxyHandler:Filtering working proxies...
+2023-02-04 02:30:19,950:INFO:ProxyHandler:Proxies found: 1
+2023-02-04 02:30:20,727:INFO:ProxyHandler:Proxies found: 2
+2023-02-04 02:30:20,989:INFO:ProxyHandler:Proxies found: 3
+2023-02-04 02:30:21,530:INFO:ProxyHandler:Proxies found: 4
+2023-02-04 02:30:22,119:INFO:ProxyHandler:Proxies found: 5
+2023-02-04 02:30:23,145:INFO:ProxyHandler:Proxies found: 6
+2023-02-04 02:30:23,327:INFO:ProxyHandler:Proxies found: 7
+2023-02-04 02:30:23,328:INFO:ProxyHandler:Proxies found: 8
+2023-02-04 02:30:23,487:INFO:ProxyHandler:Proxies found: 9
+2023-02-04 02:30:24,271:INFO:ProxyHandler:Proxies found: 10
+2023-02-04 02:30:24,430:INFO:ProxyHandler:Proxies found: 11
+2023-02-04 02:30:25,821:INFO:ProxyHandler:Proxies found: 12
+2023-02-04 02:30:34,464:INFO:ProxyHandler:Working proxies: 12. Proceeding to scrape profiles...
+2023-02-04 02:32:17,384:INFO:APScraper:==== Active Players Scraper Started ====
+2023-02-04 02:32:17,603:INFO:ProxyHandler:Fetching proxies...
+2023-02-04 02:32:19,293:INFO:ProxyHandler:Filtering working proxies...
+2023-02-04 02:32:22,520:INFO:ProxyHandler:Proxies found: 1
+2023-02-04 02:32:23,381:INFO:ProxyHandler:Proxies found: 2
+2023-02-04 02:32:24,217:INFO:ProxyHandler:Proxies found: 3
+2023-02-04 02:32:24,624:INFO:ProxyHandler:Proxies found: 4
+2023-02-04 02:32:24,637:INFO:ProxyHandler:Proxies found: 5
+2023-02-04 02:32:25,134:INFO:ProxyHandler:Proxies found: 6
+2023-02-04 02:32:25,374:INFO:ProxyHandler:Proxies found: 7
+2023-02-04 02:32:25,996:INFO:ProxyHandler:Proxies found: 8
+2023-02-04 02:32:26,489:INFO:ProxyHandler:Proxies found: 9
+2023-02-04 02:32:26,902:INFO:ProxyHandler:Proxies found: 10
+2023-02-04 02:32:26,921:INFO:ProxyHandler:Proxies found: 11
+2023-02-04 02:32:27,230:INFO:ProxyHandler:Proxies found: 12
+2023-02-04 02:32:27,369:INFO:ProxyHandler:Proxies found: 13
+2023-02-04 02:32:27,479:INFO:ProxyHandler:Proxies found: 14
+2023-02-04 02:32:28,942:INFO:ProxyHandler:Proxies found: 15
+2023-02-04 02:32:29,245:INFO:ProxyHandler:Proxies found: 16
+2023-02-04 02:32:29,566:INFO:ProxyHandler:Proxies found: 17
+2023-02-04 02:32:38,676:INFO:ProxyHandler:Working proxies: 17. Proceeding to scrape profiles...
+2023-02-04 02:32:42,944:INFO:APScraper:Tables found >>> FunPlus Phoenix: 12
+2023-02-04 02:32:42,980:INFO:APScraper:Queue: 19 || Crawled: 1
+2023-02-04 02:32:44,666:INFO:APScraper:Tables found >>> Vision Strikers: 6
+2023-02-04 02:32:44,779:INFO:APScraper:Queue: 18 || Crawled: 2
+2023-02-04 02:32:45,131:INFO:APScraper:Tables found >>> G2 Esports: 13
+2023-02-04 02:32:45,253:INFO:APScraper:Queue: 17 || Crawled: 3
+2023-02-04 02:32:45,430:INFO:APScraper:Tables found >>> Team Liquid: 11
+2023-02-04 02:32:45,460:INFO:APScraper:Queue: 16 || Crawled: 4
+2023-02-04 02:32:46,533:INFO:APScraper:Tables found >>> Fnatic: 12
+2023-02-04 02:32:46,564:INFO:APScraper:Queue: 15 || Crawled: 5
+2023-02-04 02:32:46,758:INFO:APScraper:Tables found >>> Team Envy: 6
+2023-02-04 02:32:46,783:INFO:APScraper:Queue: 14 || Crawled: 6
+2023-02-04 02:32:48,484:INFO:APScraper:Tables found >>> G2 Gozen: 7
+2023-02-04 02:32:48,503:INFO:APScraper:Queue: 13 || Crawled: 7
+2023-02-04 02:32:48,972:INFO:APScraper:Tables found >>> XSET: 6
+2023-02-04 02:32:48,995:INFO:APScraper:Queue: 12 || Crawled: 8
+2023-02-04 02:32:49,616:INFO:APScraper:Tables found >>> KRÜ Esports: 10
+2023-02-04 02:32:49,707:INFO:APScraper:Queue: 11 || Crawled: 9
+2023-02-04 02:32:49,731:INFO:APScraper:Tables found >>> Gambit Esports: 6
+2023-02-04 02:32:49,757:INFO:APScraper:Queue: 10 || Crawled: 10
+2023-02-04 02:32:58,523:INFO:APScraper:Tables found >>> Paper Rex: 9
+2023-02-04 02:32:58,549:INFO:APScraper:Queue: 9 || Crawled: 11
+2023-02-04 02:32:58,833:INFO:APScraper:Tables found >>> Cloud9 White: 7
+2023-02-04 02:32:58,855:INFO:APScraper:Queue: 8 || Crawled: 12
+2023-02-04 02:32:59,301:INFO:APScraper:Tables found >>> Acend: 16
+2023-02-04 02:32:59,334:INFO:APScraper:Queue: 7 || Crawled: 13
+2023-02-04 02:33:00,379:INFO:APScraper:Tables found >>> Shopify Rebellion GC: 7
+2023-02-04 02:33:00,399:INFO:APScraper:Queue: 6 || Crawled: 14
+2023-02-04 02:33:00,898:INFO:APScraper:Tables found >>> DRX: 10
+2023-02-04 02:33:00,925:INFO:APScraper:Queue: 5 || Crawled: 15
+2023-02-04 02:33:07,476:INFO:APScraper:Tables found >>> 100 Thieves: 12
+2023-02-04 02:33:07,514:INFO:APScraper:Queue: 4 || Crawled: 16
+2023-02-04 02:33:16,167:INFO:APScraper:Tables found >>> LOUD: 10
+2023-02-04 02:33:16,187:INFO:APScraper:Queue: 3 || Crawled: 17
+2023-02-04 02:33:18,269:INFO:APScraper:Tables found >>> OpTic Gaming: 5
+2023-02-04 02:33:18,286:INFO:APScraper:Queue: 2 || Crawled: 18
+2023-02-04 02:33:53,422:INFO:APScraper:Tables found >>> TSM: 12
+2023-02-04 02:33:53,454:INFO:APScraper:Queue: 1 || Crawled: 19
+2023-02-04 02:34:29,108:INFO:APScraper:Tables found >>> Sentinels: 13
+2023-02-04 02:34:29,142:INFO:APScraper:Queue: 0 || Crawled: 20
+2023-02-04 02:34:29,142:INFO:APScraper:Finished scraping. Saving to excel...
+2023-02-04 02:34:29,306:INFO:APScraper:Records saved!
+2023-02-04 02:36:20,640:INFO:__main__:==== Liquipedia scraper started ====
+2023-02-04 02:36:20,868:INFO:ProxyHandler:Fetching proxies...
+2023-02-04 02:36:21,843:INFO:ProxyHandler:Filtering working proxies...
+2023-02-04 02:36:25,857:INFO:ProxyHandler:Proxies found: 1
+2023-02-04 02:36:25,946:INFO:ProxyHandler:Proxies found: 2
+2023-02-04 02:36:26,129:INFO:ProxyHandler:Proxies found: 3
+2023-02-04 02:36:26,512:INFO:ProxyHandler:Proxies found: 4
+2023-02-04 02:36:26,968:INFO:ProxyHandler:Proxies found: 5
+2023-02-04 02:36:28,310:INFO:ProxyHandler:Proxies found: 6
+2023-02-04 02:36:28,544:INFO:ProxyHandler:Proxies found: 7
+2023-02-04 02:36:28,879:INFO:ProxyHandler:Proxies found: 8
+2023-02-04 02:36:28,953:INFO:ProxyHandler:Proxies found: 9
+2023-02-04 02:36:30,944:INFO:ProxyHandler:Proxies found: 10
+2023-02-04 02:36:31,529:INFO:ProxyHandler:Proxies found: 11
+2023-02-04 02:36:33,469:INFO:ProxyHandler:Proxies found: 12
+2023-02-04 02:36:35,005:INFO:ProxyHandler:Proxies found: 13
+2023-02-04 02:36:36,631:INFO:ProxyHandler:Working proxies: 13. Proceeding to scrape profiles...
+2023-02-04 02:36:38,932:INFO:__main__:Extracting player slugs for >>> Saadhak
+2023-02-04 02:36:39,093:INFO:__main__:Extracting player slugs for >>> zombs
+2023-02-04 02:36:40,028:INFO:__main__:Extracting player slugs for >>> Derke
+2023-02-04 02:36:41,415:INFO:__main__:Extracting player slugs for >>> soulcas
+2023-02-04 02:36:42,069:INFO:__main__:Extracting player slugs for >>> d3ffo
+2023-02-04 02:36:42,687:INFO:__main__:Extracting player slugs for >>> starxo
+2023-02-04 02:36:43,893:INFO:__main__:Extracting player slugs for >>> ShahZaM
+2023-02-04 02:36:43,958:INFO:__main__:Extracting player slugs for >>> mindfreak
+2023-02-04 02:36:43,988:INFO:__main__:Extracting player slugs for >>> Rb
+2023-02-04 02:36:44,027:INFO:__main__:Extracting player slugs for >>> Marved
+2023-02-04 02:36:44,115:INFO:__main__:Extracting player slugs for >>> FNS
+2023-02-04 02:36:44,650:INFO:__main__:Extracting player slugs for >>> L1NK
+2023-02-04 02:36:44,742:INFO:__main__:Extracting player slugs for >>> Asuna
+2023-02-04 02:36:45,448:INFO:__main__:Extracting player slugs for >>> ANGE1
+2023-02-04 02:36:45,931:INFO:__main__:Extracting player slugs for >>> Mistic
+2023-02-04 02:36:46,076:INFO:__main__:Extracting player slugs for >>> yay
+2023-02-04 02:36:46,913:INFO:__main__:Extracting player slugs for >>> cNed
+2023-02-04 02:36:47,089:INFO:__main__:Extracting player slugs for >>> Shao
+2023-02-04 02:36:47,594:INFO:__main__:Extracting player slugs for >>> Zyppan
+2023-02-04 02:36:48,002:INFO:__main__:Extracting player slugs for >>> mixwell
+2023-02-04 02:36:48,256:INFO:__main__:Extracting player slugs for >>> aspas
+2023-02-04 02:36:48,319:INFO:__main__:Extracting player slugs for >>> Jamppi
+2023-02-04 02:36:48,336:INFO:__main__:Extracting player slugs for >>> Sacy
+2023-02-04 02:36:48,550:INFO:__main__:Extracting player slugs for >>> f0rsakeN
+2023-02-04 02:36:49,127:INFO:__main__:Extracting player slugs for >>> MaKo
+2023-02-04 02:36:49,245:INFO:__main__:Extracting player slugs for >>> Boaster
+2023-02-04 02:36:49,520:INFO:__main__:Extracting player slugs for >>> Zest
+2023-02-04 02:36:49,677:INFO:__main__:Extracting player slugs for >>> SUYGETSU
+2023-02-04 02:36:49,872:INFO:__main__:Extracting player slugs for >>> zeek
+2023-02-04 02:36:50,079:INFO:__main__:Extracting player slugs for >>> crashies
+2023-02-04 02:36:50,362:INFO:__main__:Extracting player slugs for >>> TenZ
+2023-02-04 02:36:50,698:INFO:__main__:Extracting player slugs for >>> Less
+2023-02-04 02:36:50,841:INFO:__main__:Extracting player slugs for >>> Sheydos
+2023-02-04 02:36:51,224:INFO:__main__:Extracting player slugs for >>> Victor
+2023-02-04 02:36:51,359:INFO:__main__:Extracting player slugs for >>> pANcada
+2023-02-04 02:36:51,665:INFO:__main__:Extracting player slugs for >>> AvovA
+2023-02-04 02:36:52,079:INFO:__main__:Extracting player slugs for >>> d4v41
+2023-02-04 02:36:52,199:INFO:__main__:Extracting player slugs for >>> dapr
+2023-02-04 02:36:52,493:INFO:__main__:Extracting player slugs for >>> Redgar
+2023-02-04 02:36:52,879:INFO:__main__:Extracting player slugs for >>> nAts
+2023-02-04 02:36:53,388:INFO:__main__:Extracting player slugs for >>> BONECOLD
+2023-02-04 02:36:53,738:INFO:__main__:Extracting player slugs for >>> Benkai
+2023-02-04 02:36:54,237:INFO:__main__:Extracting player slugs for >>> ScreaM
+2023-02-04 02:36:54,983:INFO:__main__:Extracting player slugs for >>> stax
+2023-02-04 02:36:55,223:INFO:__main__:Extracting player slugs for >>> BuZz
+2023-02-04 02:36:55,685:INFO:__main__:Extracting player slugs for >>> Jinggg
+2023-02-04 02:36:55,923:INFO:__main__:Extracting player slugs for >>> Chronicle
+2023-02-04 02:36:56,982:INFO:__main__:Extracting player slugs for >>> ardiis
+2023-02-04 02:36:57,744:INFO:__main__:Extracting player slugs for >>> SicK
+2023-02-04 02:36:58,596:INFO:__main__:Extracting player slugs for >>> Kiles
+2023-02-04 02:37:27,403:INFO:__main__:Queue: 499 | Crawled: 1 | Downloaded images: 50
+2023-02-04 02:37:27,403:INFO:__main__:Queue: 498 | Crawled: 2 | Downloaded images: 50
+2023-02-04 02:37:27,403:INFO:__main__:Queue: 497 | Crawled: 3 | Downloaded images: 50
+2023-02-04 02:37:27,403:INFO:__main__:Queue: 496 | Crawled: 4 | Downloaded images: 50
+2023-02-04 02:37:27,403:INFO:__main__:Queue: 495 | Crawled: 5 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 494 | Crawled: 6 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 493 | Crawled: 7 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 492 | Crawled: 8 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 491 | Crawled: 9 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 490 | Crawled: 10 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 489 | Crawled: 11 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 488 | Crawled: 12 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 487 | Crawled: 13 | Downloaded images: 50
+2023-02-04 02:37:27,404:INFO:__main__:Queue: 486 | Crawled: 14 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 485 | Crawled: 15 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 484 | Crawled: 16 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 483 | Crawled: 17 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 482 | Crawled: 18 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 481 | Crawled: 19 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 480 | Crawled: 20 | Downloaded images: 50
+2023-02-04 02:37:27,405:INFO:__main__:Queue: 479 | Crawled: 21 | Downloaded images: 50
+2023-02-04 02:37:27,406:INFO:__main__:Queue: 478 | Crawled: 22 | Downloaded images: 50
+2023-02-04 02:37:27,406:INFO:__main__:Queue: 477 | Crawled: 23 | Downloaded images: 50
+2023-02-04 02:37:27,406:INFO:__main__:Queue: 476 | Crawled: 24 | Downloaded images: 50
+2023-02-04 02:37:27,406:INFO:__main__:Queue: 475 | Crawled: 25 | Downloaded images: 50
+2023-02-04 02:37:27,406:INFO:__main__:Queue: 474 | Crawled: 26 | Downloaded images: 50
+2023-02-04 02:37:27,407:INFO:__main__:Queue: 473 | Crawled: 27 | Downloaded images: 50
+2023-02-04 02:37:27,407:INFO:__main__:Queue: 472 | Crawled: 28 | Downloaded images: 50
+2023-02-04 02:37:27,408:INFO:__main__:Queue: 471 | Crawled: 29 | Downloaded images: 50
+2023-02-04 02:37:27,408:INFO:__main__:Queue: 470 | Crawled: 30 | Downloaded images: 50
+2023-02-04 02:37:27,408:INFO:__main__:Queue: 469 | Crawled: 31 | Downloaded images: 50
+2023-02-04 02:37:27,408:INFO:__main__:Queue: 468 | Crawled: 32 | Downloaded images: 50
+2023-02-04 02:37:27,408:INFO:__main__:Queue: 467 | Crawled: 33 | Downloaded images: 50
+2023-02-04 02:37:27,408:INFO:__main__:Queue: 466 | Crawled: 34 | Downloaded images: 50
+2023-02-04 02:37:27,409:INFO:__main__:Queue: 465 | Crawled: 35 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 464 | Crawled: 36 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 463 | Crawled: 37 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 462 | Crawled: 38 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 461 | Crawled: 39 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 460 | Crawled: 40 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 459 | Crawled: 41 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 458 | Crawled: 42 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 457 | Crawled: 43 | Downloaded images: 50
+2023-02-04 02:37:27,411:INFO:__main__:Queue: 456 | Crawled: 44 | Downloaded images: 50
+2023-02-04 02:37:27,412:INFO:__main__:Queue: 455 | Crawled: 45 | Downloaded images: 50
+2023-02-04 02:37:27,412:INFO:__main__:Queue: 454 | Crawled: 46 | Downloaded images: 50
+2023-02-04 02:37:27,412:INFO:__main__:Queue: 453 | Crawled: 47 | Downloaded images: 50
+2023-02-04 02:37:27,412:INFO:__main__:Queue: 452 | Crawled: 48 | Downloaded images: 50
+2023-02-04 02:37:27,412:INFO:__main__:Queue: 451 | Crawled: 49 | Downloaded images: 50
+2023-02-04 02:37:27,412:INFO:__main__:Queue: 450 | Crawled: 50 | Downloaded images: 50
+2023-02-04 02:37:32,695:INFO:__main__:Extracting player slugs for >>> NagZ
+2023-02-04 02:37:32,983:INFO:__main__:Extracting player slugs for >>> mitch
+2023-02-04 02:37:33,055:INFO:__main__:Extracting player slugs for >>> BcJ
+2023-02-04 02:37:33,321:INFO:__main__:Extracting player slugs for >>> leaf
+2023-02-04 02:37:33,502:INFO:__main__:Extracting player slugs for >>> zekken
+2023-02-04 02:37:33,512:INFO:__main__:Extracting player slugs for >>> Cryocells
+2023-02-04 02:37:34,036:INFO:__main__:Extracting player slugs for >>> Lorri
+2023-02-04 02:37:34,080:INFO:__main__:Extracting player slugs for >>> bENITA
+2023-02-04 02:37:34,158:INFO:__main__:Extracting player slugs for >>> Mazino
+2023-02-04 02:37:34,390:INFO:__main__:Extracting player slugs for >>> alexis
+2023-02-04 02:37:34,679:INFO:__main__:Extracting player slugs for >>> crow
+2023-02-04 02:37:35,302:INFO:__main__:Extracting player slugs for >>> Lakia
+2023-02-04 02:37:35,603:INFO:__main__:Extracting player slugs for >>> Kryptix
+2023-02-04 02:37:35,798:INFO:__main__:Extracting player slugs for >>> Enzo
+2023-02-04 02:37:36,103:INFO:__main__:Extracting player slugs for >>> Ethan
+2023-02-04 02:37:36,322:INFO:__main__:Extracting player slugs for >>> Glance
+2023-02-04 02:37:36,543:INFO:__main__:Extracting player slugs for >>> Klaus
+2023-02-04 02:37:36,799:INFO:__main__:Extracting player slugs for >>> nitr0
+2023-02-04 02:37:37,080:INFO:__main__:Extracting player slugs for >>> Nivera
+2023-02-04 02:37:37,142:INFO:__main__:Extracting player slugs for >>> xeta
+2023-02-04 02:37:37,301:INFO:__main__:Extracting player slugs for >>> dephh
+2023-02-04 02:37:37,959:INFO:__main__:Extracting player slugs for >>> flowerful
+2023-02-04 02:37:37,978:INFO:__main__:Extracting player slugs for >>> koldamenta
+2023-02-04 02:37:38,358:INFO:__main__:Extracting player slugs for >>> Mary
+2023-02-04 02:37:38,485:INFO:__main__:Extracting player slugs for >>> vanity
+2023-02-04 02:37:38,758:INFO:__main__:Extracting player slugs for >>> keznit
+2023-02-04 02:37:38,917:INFO:__main__:Extracting player slugs for >>> sonder
+2023-02-04 02:37:39,563:INFO:__main__:Extracting player slugs for >>> AYRIN
+2023-02-04 02:37:39,824:INFO:__main__:Extracting player slugs for >>> Laz
+2023-02-04 02:37:40,393:INFO:__main__:Extracting player slugs for >>> mimi
+2023-02-04 02:37:40,395:INFO:__main__:Extracting player slugs for >>> foxz
+2023-02-04 02:37:41,432:INFO:__main__:Extracting player slugs for >>> Doma
+2023-02-04 02:37:41,516:INFO:__main__:Extracting player slugs for >>> Magnum
+2023-02-04 02:37:41,609:INFO:__main__:Extracting player slugs for >>> Jazzyk1ns
+2023-02-04 02:37:41,860:INFO:__main__:Extracting player slugs for >>> delz1k
+2023-02-04 02:37:45,046:INFO:__main__:Extracting player slugs for >>> SEIDER
+2023-02-04 02:37:45,745:INFO:__main__:Extracting player slugs for >>> hazed
+2023-02-04 02:37:45,981:INFO:__main__:Extracting player slugs for >>> Crws
+2023-02-04 02:37:46,319:INFO:__main__:Extracting player slugs for >>> juliano
+2023-02-04 02:37:47,814:INFO:__main__:Extracting player slugs for >>> Tacolilla
+2023-02-04 02:37:48,024:INFO:__main__:Extracting player slugs for >>> sScary
+2023-02-04 02:37:48,315:INFO:__main__:Extracting player slugs for >>> k1Ng
+2023-02-04 02:37:48,883:INFO:__main__:Extracting player slugs for >>> Petra
+2023-02-04 02:37:49,671:INFO:__main__:Extracting player slugs for >>> KP
+2023-02-04 02:37:50,022:INFO:__main__:Extracting player slugs for >>> nukkye
+2023-02-04 02:37:50,826:INFO:__main__:Extracting player slugs for >>> steel
+2023-02-04 02:37:56,078:INFO:__main__:Extracting player slugs for >>> meL
+2023-02-04 02:37:56,455:INFO:__main__:Extracting player slugs for >>> katsumi
+2023-02-04 02:38:02,410:INFO:__main__:Extracting player slugs for >>> sushiboys
+2023-02-04 02:38:11,772:INFO:__main__:Extracting player slugs for >>> Alfajer
+2023-02-04 02:39:20,384:INFO:__main__:Queue: 449 | Crawled: 51 | Downloaded images: 100
+2023-02-04 02:39:20,386:INFO:__main__:Queue: 448 | Crawled: 52 | Downloaded images: 100
+2023-02-04 02:39:20,386:INFO:__main__:Queue: 447 | Crawled: 53 | Downloaded images: 100
+2023-02-04 02:39:20,397:INFO:__main__:Queue: 400 | Crawled: 100 | Downloaded images: 100
+2023-02-04 02:39:20,386:INFO:__main__:Queue: 445 | Crawled: 55 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 444 | Crawled: 56 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 443 | Crawled: 57 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 442 | Crawled: 58 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 441 | Crawled: 59 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 440 | Crawled: 60 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 439 | Crawled: 61 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 438 | Crawled: 62 | Downloaded images: 100
+2023-02-04 02:39:20,387:INFO:__main__:Queue: 437 | Crawled: 63 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 436 | Crawled: 64 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 435 | Crawled: 65 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 434 | Crawled: 66 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 433 | Crawled: 67 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 432 | Crawled: 68 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 431 | Crawled: 69 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 430 | Crawled: 70 | Downloaded images: 100
+2023-02-04 02:39:20,388:INFO:__main__:Queue: 429 | Crawled: 71 | Downloaded images: 100
+2023-02-04 02:39:20,390:INFO:__main__:Queue: 428 | Crawled: 72 | Downloaded images: 100
+2023-02-04 02:39:20,390:INFO:__main__:Queue: 427 | Crawled: 73 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 426 | Crawled: 74 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 425 | Crawled: 75 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 424 | Crawled: 76 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 423 | Crawled: 77 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 422 | Crawled: 78 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 421 | Crawled: 79 | Downloaded images: 100
+2023-02-04 02:39:20,391:INFO:__main__:Queue: 420 | Crawled: 80 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 419 | Crawled: 81 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 418 | Crawled: 82 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 417 | Crawled: 83 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 416 | Crawled: 84 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 415 | Crawled: 85 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 414 | Crawled: 86 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 413 | Crawled: 87 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 412 | Crawled: 88 | Downloaded images: 100
+2023-02-04 02:39:20,392:INFO:__main__:Queue: 411 | Crawled: 89 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 410 | Crawled: 90 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 409 | Crawled: 91 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 408 | Crawled: 92 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 407 | Crawled: 93 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 406 | Crawled: 94 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 405 | Crawled: 95 | Downloaded images: 100
+2023-02-04 02:39:20,393:INFO:__main__:Queue: 404 | Crawled: 96 | Downloaded images: 100
+2023-02-04 02:39:20,394:INFO:__main__:Queue: 403 | Crawled: 97 | Downloaded images: 100
+2023-02-04 02:39:20,396:INFO:__main__:Queue: 402 | Crawled: 98 | Downloaded images: 100
+2023-02-04 02:39:20,396:INFO:__main__:Queue: 401 | Crawled: 99 | Downloaded images: 100
+2023-02-04 02:39:20,386:INFO:__main__:Queue: 446 | Crawled: 54 | Downloaded images: 100
+2023-02-04 02:39:24,244:INFO:__main__:Extracting player slugs for >>> Nozwerr
+2023-02-04 02:39:24,612:INFO:__main__:Extracting player slugs for >>> pAura
+2023-02-04 02:39:24,828:INFO:__main__:Extracting player slugs for >>> Zellsis
+2023-02-04 02:39:25,003:INFO:__main__:Extracting player slugs for >>> bang
+2023-02-04 02:39:25,205:INFO:__main__:Extracting player slugs for >>> drn
+2023-02-04 02:39:25,493:INFO:__main__:Extracting player slugs for >>> BORKUM
+2023-02-04 02:39:25,886:INFO:__main__:Extracting player slugs for >>> nat1
+2023-02-04 02:39:26,055:INFO:__main__:Extracting player slugs for >>> drone
+2023-02-04 02:39:26,143:INFO:__main__:Extracting player slugs for >>> Dispenser
+2023-02-04 02:39:26,691:INFO:__main__:Extracting player slugs for >>> Reita
+2023-02-04 02:39:26,716:INFO:__main__:Extracting player slugs for >>> Derrek
+2023-02-04 02:39:26,909:INFO:__main__:Extracting player slugs for >>> daiki
+2023-02-04 02:39:27,023:INFO:__main__:Extracting player slugs for >>> barce
+2023-02-04 02:39:27,832:INFO:__main__:Extracting player slugs for >>> DubsteP
+2023-02-04 02:39:27,914:INFO:__main__:Extracting player slugs for >>> Davidp
+2023-02-04 02:39:28,034:INFO:__main__:Extracting player slugs for >>> Dep
+2023-02-04 02:39:28,076:INFO:__main__:Extracting player slugs for >>> Bob
+2023-02-04 02:39:28,254:INFO:__main__:Extracting player slugs for >>> stellar
+2023-02-04 02:39:29,459:INFO:__main__:Extracting player slugs for >>> Sayf
+2023-02-04 02:39:29,483:INFO:__main__:Extracting player slugs for >>> allow
+2023-02-04 02:39:29,685:INFO:__main__:Extracting player slugs for >>> peri
+2023-02-04 02:39:29,719:INFO:__main__:Extracting player slugs for >>> pyth
+2023-02-04 02:39:29,790:INFO:__main__:Extracting player slugs for >>> bstrdd
+2023-02-04 02:39:29,819:INFO:__main__:Extracting player slugs for >>> Meddo
+2023-02-04 02:39:29,994:INFO:__main__:Extracting player slugs for >>> naxy
+2023-02-04 02:39:29,921:INFO:__main__:Extracting player slugs for >>> baddyG
+2023-02-04 02:39:30,332:INFO:__main__:Extracting player slugs for >>> frz
+2023-02-04 02:39:30,382:INFO:__main__:Extracting player slugs for >>> takej
+2023-02-04 02:39:30,400:INFO:__main__:Extracting player slugs for >>> adverso
+2023-02-04 02:39:30,501:INFO:__main__:Extracting player slugs for >>> SugarZ3ro
+2023-02-04 02:39:30,586:INFO:__main__:Extracting player slugs for >>> Leo
+2023-02-04 02:39:30,602:INFO:__main__:Extracting player slugs for >>> Subroza
+2023-02-04 02:39:30,961:INFO:__main__:Extracting player slugs for >>> xand
+2023-02-04 02:39:31,267:INFO:__main__:Extracting player slugs for >>> Turko
+2023-02-04 02:39:33,804:INFO:__main__:Extracting player slugs for >>> Xeppaa
+2023-02-04 02:39:34,710:INFO:__main__:Extracting player slugs for >>> rite2ace
+2023-02-04 02:39:34,727:INFO:__main__:Extracting player slugs for >>> paTiTek
+2023-02-04 02:39:35,658:INFO:__main__:Extracting player slugs for >>> JonahP
+2023-02-04 02:39:35,728:INFO:__main__:Extracting player slugs for >>> Melser
+2023-02-04 02:39:36,332:INFO:__main__:Extracting player slugs for >>> mojj
+2023-02-04 02:39:37,544:INFO:__main__:Extracting player slugs for >>> Suggest
+2023-02-04 02:39:40,268:INFO:__main__:Extracting player slugs for >>> Hellff
+2023-02-04 02:39:40,585:INFO:__main__:Extracting player slugs for >>> kiNgg
+2023-02-04 02:39:41,864:INFO:__main__:Extracting player slugs for >>> TENNN
+2023-02-04 02:39:44,418:INFO:__main__:Extracting player slugs for >>> Wardell
+2023-02-04 02:39:45,175:INFO:__main__:Extracting player slugs for >>> corey
+2023-02-04 02:39:47,632:INFO:__main__:Extracting player slugs for >>> JessieVash
+2023-02-04 02:39:47,962:INFO:__main__:Extracting player slugs for >>> keloqz
+2023-02-04 02:40:00,811:INFO:__main__:Extracting player slugs for >>> hoody
+2023-02-04 02:40:03,705:INFO:__main__:Extracting player slugs for >>> babybay
+2023-02-04 02:40:58,274:INFO:__main__:Queue: 399 | Crawled: 101 | Downloaded images: 150
+2023-02-04 02:40:58,276:INFO:__main__:Queue: 398 | Crawled: 102 | Downloaded images: 150
+2023-02-04 02:40:58,277:INFO:__main__:Queue: 397 | Crawled: 103 | Downloaded images: 150
+2023-02-04 02:40:58,277:INFO:__main__:Queue: 396 | Crawled: 104 | Downloaded images: 150
+2023-02-04 02:40:58,277:INFO:__main__:Queue: 395 | Crawled: 105 | Downloaded images: 150
+2023-02-04 02:40:58,277:INFO:__main__:Queue: 394 | Crawled: 106 | Downloaded images: 150
+2023-02-04 02:40:58,277:INFO:__main__:Queue: 393 | Crawled: 107 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 392 | Crawled: 108 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 391 | Crawled: 109 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 390 | Crawled: 110 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 389 | Crawled: 111 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 388 | Crawled: 112 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 387 | Crawled: 113 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 386 | Crawled: 114 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 385 | Crawled: 115 | Downloaded images: 150
+2023-02-04 02:40:58,278:INFO:__main__:Queue: 384 | Crawled: 116 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 383 | Crawled: 117 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 382 | Crawled: 118 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 381 | Crawled: 119 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 380 | Crawled: 120 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 379 | Crawled: 121 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 378 | Crawled: 122 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 377 | Crawled: 123 | Downloaded images: 150
+2023-02-04 02:40:58,279:INFO:__main__:Queue: 376 | Crawled: 124 | Downloaded images: 150
+2023-02-04 02:40:58,280:INFO:__main__:Queue: 375 | Crawled: 125 | Downloaded images: 150
+2023-02-04 02:40:58,280:INFO:__main__:Queue: 374 | Crawled: 126 | Downloaded images: 150
+2023-02-04 02:40:58,280:INFO:__main__:Queue: 373 | Crawled: 127 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 372 | Crawled: 128 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 371 | Crawled: 129 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 370 | Crawled: 130 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 369 | Crawled: 131 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 368 | Crawled: 132 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 351 | Crawled: 149 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 367 | Crawled: 133 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 365 | Crawled: 135 | Downloaded images: 150
+2023-02-04 02:40:58,282:INFO:__main__:Queue: 364 | Crawled: 136 | Downloaded images: 150
+2023-02-04 02:40:58,282:INFO:__main__:Queue: 363 | Crawled: 137 | Downloaded images: 150
+2023-02-04 02:40:58,282:INFO:__main__:Queue: 362 | Crawled: 138 | Downloaded images: 150
+2023-02-04 02:40:58,284:INFO:__main__:Queue: 361 | Crawled: 139 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 360 | Crawled: 140 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 359 | Crawled: 141 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 358 | Crawled: 142 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 357 | Crawled: 143 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 356 | Crawled: 144 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 355 | Crawled: 145 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 354 | Crawled: 146 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 353 | Crawled: 147 | Downloaded images: 150
+2023-02-04 02:40:58,288:INFO:__main__:Queue: 352 | Crawled: 148 | Downloaded images: 150
+2023-02-04 02:40:58,281:INFO:__main__:Queue: 366 | Crawled: 134 | Downloaded images: 150
+2023-02-04 02:40:58,294:INFO:__main__:Queue: 350 | Crawled: 150 | Downloaded images: 150
+2023-02-04 02:41:00,900:INFO:__main__:Extracting player slugs for >>> dimasick
+2023-02-04 02:41:01,499:INFO:__main__:Extracting player slugs for >>> KappA
+2023-02-04 02:41:01,687:INFO:__main__:Extracting player slugs for >>> neT
+2023-02-04 02:41:02,120:INFO:__main__:Extracting player slugs for >>> Vibhor
+2023-02-04 02:41:02,701:INFO:__main__:Extracting player slugs for >>> AsLanM4shadoW
+2023-02-04 02:41:02,718:INFO:__main__:Extracting player slugs for >>> PureR
+2023-02-04 02:41:02,804:INFO:__main__:Extracting player slugs for >>> qck
+2023-02-04 02:41:03,048:INFO:__main__:Extracting player slugs for >>> russ
+2023-02-04 02:41:03,827:INFO:__main__:Extracting player slugs for >>> Shyy
+2023-02-04 02:41:04,191:INFO:__main__:Extracting player slugs for >>> Moh
+2023-02-04 02:41:04,581:INFO:__main__:Extracting player slugs for >>> Amaterasu
+2023-02-04 02:41:04,793:INFO:__main__:Extracting player slugs for >>> reltuC
+2023-02-04 02:41:05,013:INFO:__main__:Extracting player slugs for >>> OuTLaW
+2023-02-04 02:41:05,133:INFO:__main__:Extracting player slugs for >>> DEATHMAKER
+2023-02-04 02:41:05,180:INFO:__main__:Extracting player slugs for >>> lowel
+2023-02-04 02:41:05,327:INFO:__main__:Extracting player slugs for >>> gMd
+2023-02-04 02:41:05,523:INFO:__main__:Extracting player slugs for >>> Jonn
+2023-02-04 02:41:05,994:INFO:__main__:Extracting player slugs for >>> PTC
+2023-02-04 02:41:06,052:INFO:__main__:Extracting player slugs for >>> SpY
+2023-02-04 02:41:06,150:INFO:__main__:Extracting player slugs for >>> Fr4nky
+2023-02-04 02:41:06,376:INFO:__main__:Extracting player slugs for >>> blaZek1ng
+2023-02-04 02:41:06,420:INFO:__main__:Extracting player slugs for >>> witz
+2023-02-04 02:41:06,886:INFO:__main__:Extracting player slugs for >>> chrollo
+2023-02-04 02:41:06,902:INFO:__main__:Extracting player slugs for >>> shalaby
+2023-02-04 02:41:07,001:INFO:__main__:Extracting player slugs for >>> neth
+2023-02-04 02:41:08,236:INFO:__main__:Extracting player slugs for >>> sutecas
+2023-02-04 02:41:10,050:INFO:__main__:Extracting player slugs for >>> ZachaREEE
+2023-02-04 02:41:11,161:INFO:__main__:Extracting player slugs for >>> mummAy
+2023-02-04 02:41:11,540:INFO:__main__:Extracting player slugs for >>> murizzz
+2023-02-04 02:41:11,943:INFO:__main__:Extracting player slugs for >>> SkRossi
+2023-02-04 02:41:12,176:INFO:__main__:Extracting player slugs for >>> zepher
+2023-02-04 02:41:12,325:INFO:__main__:Extracting player slugs for >>> qRaxs
+2023-02-04 02:41:13,256:INFO:__main__:Extracting player slugs for >>> aproto
+2023-02-04 02:41:13,520:INFO:__main__:Extracting player slugs for >>> Surf
+2023-02-04 02:41:14,451:INFO:__main__:Extracting player slugs for >>> aimDLL
+2023-02-04 02:41:15,235:INFO:__main__:Extracting player slugs for >>> penny
+2023-02-04 02:41:15,461:INFO:__main__:Extracting player slugs for >>> mwzera
+2023-02-04 02:41:15,742:INFO:__main__:Extracting player slugs for >>> STERBEN
+2023-02-04 02:41:16,178:INFO:__main__:Extracting player slugs for >>> zeddy
+2023-02-04 02:41:18,187:INFO:__main__:Extracting player slugs for >>> alvar
+2023-02-04 02:41:20,105:INFO:__main__:Extracting player slugs for >>> skillZ
+2023-02-04 02:41:20,983:INFO:__main__:Extracting player slugs for >>> valyn
+2023-02-04 02:41:21,166:INFO:__main__:Extracting player slugs for >>> ShadoW
+2023-02-04 02:41:23,623:INFO:__main__:Extracting player slugs for >>> gtnziN
+2023-02-04 02:41:24,460:INFO:__main__:Extracting player slugs for >>> ec1s
+2023-02-04 02:41:27,635:INFO:__main__:Extracting player slugs for >>> Lightningfast
+2023-02-04 02:41:36,058:INFO:__main__:Extracting player slugs for >>> Munchkin
+2023-02-04 02:41:41,381:INFO:__main__:Extracting player slugs for >>> Khalil
+2023-02-04 02:41:41,870:INFO:__main__:Extracting player slugs for >>> HellrangeR
+2023-02-04 02:41:48,933:INFO:__main__:Extracting player slugs for >>> Medusa
+2023-02-04 02:42:57,141:INFO:__main__:==== Liquipedia scraper started ====
+2023-02-04 02:42:57,370:INFO:ProxyHandler:Fetching proxies...
+2023-02-04 02:42:59,163:INFO:ProxyHandler:Filtering working proxies...
+2023-02-04 02:43:04,280:INFO:ProxyHandler:Proxies found: 1
+2023-02-04 02:43:04,727:INFO:ProxyHandler:Proxies found: 2
+2023-02-04 02:43:05,454:INFO:ProxyHandler:Proxies found: 3
+2023-02-04 02:43:05,676:INFO:ProxyHandler:Proxies found: 4
+2023-02-04 02:43:07,719:INFO:ProxyHandler:Proxies found: 5
+2023-02-04 02:43:08,168:INFO:ProxyHandler:Proxies found: 6
+2023-02-04 02:43:08,247:INFO:ProxyHandler:Proxies found: 7
+2023-02-04 02:43:09,886:INFO:ProxyHandler:Proxies found: 8
+2023-02-04 02:43:10,162:INFO:ProxyHandler:Proxies found: 9
+2023-02-04 02:43:11,189:INFO:ProxyHandler:Proxies found: 10
+2023-02-04 02:43:22,994:INFO:ProxyHandler:Working proxies: 10. Proceeding to scrape profiles...
+2023-02-04 02:43:25,347:INFO:__main__:Extracting player slugs for >>> Chronicle
+2023-02-04 02:43:27,175:INFO:__main__:Extracting player slugs for >>> Shao
+2023-02-04 02:43:27,335:INFO:__main__:Extracting player slugs for >>> Redgar
+2023-02-04 02:43:27,426:INFO:__main__:Extracting player slugs for >>> ANGE1
+2023-02-04 02:43:27,903:INFO:__main__:Extracting player slugs for >>> Less
+2023-02-04 02:43:27,997:INFO:__main__:Extracting player slugs for >>> TenZ
+2023-02-04 02:43:28,919:INFO:__main__:Extracting player slugs for >>> d3ffo
+2023-02-04 02:43:29,615:INFO:__main__:Extracting player slugs for >>> Mistic
+2023-02-04 02:43:29,927:INFO:__main__:Extracting player slugs for >>> Asuna
+2023-02-04 02:43:30,148:INFO:__main__:Extracting player slugs for >>> Kiles
+2023-02-04 02:43:31,222:INFO:__main__:Extracting player slugs for >>> Sacy
+2023-02-04 02:43:31,494:INFO:__main__:Extracting player slugs for >>> starxo
+2023-02-04 02:43:31,566:INFO:__main__:Extracting player slugs for >>> BONECOLD
+2023-02-04 02:43:31,690:INFO:__main__:Extracting player slugs for >>> crashies
+2023-02-04 02:43:31,798:INFO:__main__:Extracting player slugs for >>> L1NK
+2023-02-04 02:43:31,928:INFO:__main__:Extracting player slugs for >>> Jamppi
+2023-02-04 02:43:32,067:INFO:__main__:Extracting player slugs for >>> Zyppan
+2023-02-04 02:43:32,214:INFO:__main__:Extracting player slugs for >>> d4v41
+2023-02-04 02:43:32,486:INFO:__main__:Extracting player slugs for >>> pANcada
+2023-02-04 02:43:32,913:INFO:__main__:Extracting player slugs for >>> MaKo
+2023-02-04 02:43:33,126:INFO:__main__:Extracting player slugs for >>> ShahZaM
+2023-02-04 02:43:33,208:INFO:__main__:Extracting player slugs for >>> dapr
+2023-02-04 02:43:33,678:INFO:__main__:Extracting player slugs for >>> Benkai
+2023-02-04 02:43:33,961:INFO:__main__:Extracting player slugs for >>> FNS
+2023-02-04 02:43:34,115:INFO:__main__:Extracting player slugs for >>> f0rsakeN
+2023-02-04 02:43:34,178:INFO:__main__:Extracting player slugs for >>> Derke
+2023-02-04 02:43:34,417:INFO:__main__:Extracting player slugs for >>> Victor
+2023-02-04 02:43:34,534:INFO:__main__:Extracting player slugs for >>> Marved
+2023-02-04 02:43:35,204:INFO:__main__:Extracting player slugs for >>> stax
+2023-02-04 02:43:35,343:INFO:__main__:Extracting player slugs for >>> aspas
+2023-02-04 02:43:35,434:INFO:__main__:Extracting player slugs for >>> ardiis
+2023-02-04 02:43:35,446:INFO:__main__:Extracting player slugs for >>> Sheydos
+2023-02-04 02:43:35,773:INFO:__main__:Extracting player slugs for >>> Jinggg
+2023-02-04 02:43:35,802:INFO:__main__:Extracting player slugs for >>> soulcas
+2023-02-04 02:43:36,447:INFO:__main__:Extracting player slugs for >>> zombs
+2023-02-04 02:43:36,479:INFO:__main__:Extracting player slugs for >>> mixwell
+2023-02-04 02:43:36,787:INFO:__main__:Extracting player slugs for >>> Saadhak
+2023-02-04 02:43:36,920:INFO:__main__:Extracting player slugs for >>> zeek
+2023-02-04 02:43:37,186:INFO:__main__:Extracting player slugs for >>> ScreaM
+2023-02-04 02:43:37,425:INFO:__main__:Extracting player slugs for >>> yay
+2023-02-04 02:43:37,635:INFO:__main__:Extracting player slugs for >>> cNed
+2023-02-04 02:43:37,718:INFO:__main__:Extracting player slugs for >>> nAts
+2023-02-04 02:43:38,049:INFO:__main__:Extracting player slugs for >>> SicK
+2023-02-04 02:43:38,424:INFO:__main__:Extracting player slugs for >>> mindfreak
+2023-02-04 02:43:38,433:INFO:__main__:Extracting player slugs for >>> Boaster
+2023-02-04 02:43:38,916:INFO:__main__:Extracting player slugs for >>> AvovA
+2023-02-04 02:43:39,350:INFO:__main__:Extracting player slugs for >>> Zest
+2023-02-04 02:43:41,378:INFO:__main__:Extracting player slugs for >>> SUYGETSU
+2023-02-04 02:43:44,911:INFO:__main__:Extracting player slugs for >>> Rb
+2023-02-04 02:43:48,798:INFO:__main__:Extracting player slugs for >>> BuZz
+2023-02-04 02:44:14,444:INFO:__main__:Queue: 499 | Crawled: 1 | Downloaded images: 50
+2023-02-04 02:44:14,444:INFO:__main__:Queue: 498 | Crawled: 2 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 497 | Crawled: 3 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 496 | Crawled: 4 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 495 | Crawled: 5 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 494 | Crawled: 6 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 493 | Crawled: 7 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 471 | Crawled: 29 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 491 | Crawled: 9 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 490 | Crawled: 10 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 489 | Crawled: 11 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 488 | Crawled: 12 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 487 | Crawled: 13 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 486 | Crawled: 14 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 485 | Crawled: 15 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 484 | Crawled: 16 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 483 | Crawled: 17 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 482 | Crawled: 18 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 481 | Crawled: 19 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 480 | Crawled: 20 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 479 | Crawled: 21 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 478 | Crawled: 22 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 477 | Crawled: 23 | Downloaded images: 50
+2023-02-04 02:44:14,446:INFO:__main__:Queue: 476 | Crawled: 24 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 475 | Crawled: 25 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 474 | Crawled: 26 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 473 | Crawled: 27 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 472 | Crawled: 28 | Downloaded images: 50
+2023-02-04 02:44:14,445:INFO:__main__:Queue: 492 | Crawled: 8 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 470 | Crawled: 30 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 469 | Crawled: 31 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 468 | Crawled: 32 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 467 | Crawled: 33 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 466 | Crawled: 34 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 465 | Crawled: 35 | Downloaded images: 50
+2023-02-04 02:44:14,447:INFO:__main__:Queue: 464 | Crawled: 36 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 463 | Crawled: 37 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 462 | Crawled: 38 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 461 | Crawled: 39 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 460 | Crawled: 40 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 459 | Crawled: 41 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 458 | Crawled: 42 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 457 | Crawled: 43 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 456 | Crawled: 44 | Downloaded images: 50
+2023-02-04 02:44:14,448:INFO:__main__:Queue: 455 | Crawled: 45 | Downloaded images: 50
+2023-02-04 02:44:14,449:INFO:__main__:Queue: 454 | Crawled: 46 | Downloaded images: 50
+2023-02-04 02:44:14,449:INFO:__main__:Queue: 453 | Crawled: 47 | Downloaded images: 50
+2023-02-04 02:44:14,449:INFO:__main__:Queue: 452 | Crawled: 48 | Downloaded images: 50
+2023-02-04 02:44:14,449:INFO:__main__:Queue: 451 | Crawled: 49 | Downloaded images: 50
+2023-02-04 02:44:14,449:INFO:__main__:Queue: 450 | Crawled: 50 | Downloaded images: 50
+2023-02-04 02:44:17,547:INFO:__main__:Extracting player slugs for >>> BcJ
+2023-02-04 02:44:18,040:INFO:__main__:Extracting player slugs for >>> KP
+2023-02-04 02:44:18,514:INFO:__main__:Extracting player slugs for >>> juliano
+2023-02-04 02:44:19,025:INFO:__main__:Extracting player slugs for >>> Lakia
+2023-02-04 02:44:19,289:INFO:__main__:Extracting player slugs for >>> Kryptix
+2023-02-04 02:44:19,597:INFO:__main__:Extracting player slugs for >>> Jazzyk1ns
+2023-02-04 02:44:19,942:INFO:__main__:Extracting player slugs for >>> Enzo
+2023-02-04 02:44:19,946:INFO:__main__:Extracting player slugs for >>> bENITA
+2023-02-04 02:44:22,830:INFO:__main__:Extracting player slugs for >>> Klaus
+2023-02-04 02:44:22,915:INFO:__main__:Extracting player slugs for >>> vanity
+2023-02-04 02:44:23,634:INFO:__main__:Extracting player slugs for >>> nukkye
+2023-02-04 02:44:23,749:INFO:__main__:Extracting player slugs for >>> Mary
+2023-02-04 02:44:23,878:INFO:__main__:Extracting player slugs for >>> nitr0
+2023-02-04 02:44:23,948:INFO:__main__:Extracting player slugs for >>> xeta
+2023-02-04 02:44:24,767:INFO:__main__:Extracting player slugs for >>> SEIDER
+2023-02-04 02:44:24,839:INFO:__main__:Extracting player slugs for >>> k1Ng
+2023-02-04 02:44:25,798:INFO:__main__:Extracting player slugs for >>> AYRIN
+2023-02-04 02:44:25,864:INFO:__main__:Extracting player slugs for >>> Nivera
+2023-02-04 02:44:25,918:INFO:__main__:Extracting player slugs for >>> Magnum
+2023-02-04 02:44:26,008:INFO:__main__:Extracting player slugs for >>> Lorri
+2023-02-04 02:44:26,025:INFO:__main__:Extracting player slugs for >>> sonder
+2023-02-04 02:44:26,322:INFO:__main__:Extracting player slugs for >>> Tacolilla
+2023-02-04 02:44:26,558:INFO:__main__:Extracting player slugs for >>> Laz
+2023-02-04 02:44:26,805:INFO:__main__:Extracting player slugs for >>> NagZ
+2023-02-04 02:44:27,010:INFO:__main__:Extracting player slugs for >>> Doma
+2023-02-04 02:44:27,616:INFO:__main__:Extracting player slugs for >>> flowerful
+2023-02-04 02:44:27,897:INFO:__main__:Extracting player slugs for >>> mimi
+2023-02-04 02:44:28,014:INFO:__main__:Extracting player slugs for >>> alexis
+2023-02-04 02:44:28,409:INFO:__main__:Extracting player slugs for >>> Cryocells
+2023-02-04 02:44:28,455:INFO:__main__:Extracting player slugs for >>> mitch
+2023-02-04 02:44:28,651:INFO:__main__:Extracting player slugs for >>> meL
+2023-02-04 02:44:28,743:INFO:__main__:Extracting player slugs for >>> Glance
+2023-02-04 02:44:28,801:INFO:__main__:Extracting player slugs for >>> Ethan
+2023-02-04 02:44:29,428:INFO:__main__:Extracting player slugs for >>> zekken
+2023-02-04 02:44:29,570:INFO:__main__:Extracting player slugs for >>> keznit
+2023-02-04 02:44:29,801:INFO:__main__:Extracting player slugs for >>> sushiboys
+2023-02-04 02:44:29,966:INFO:__main__:Extracting player slugs for >>> hazed
+2023-02-04 02:44:30,370:INFO:__main__:Extracting player slugs for >>> sScary
+2023-02-04 02:44:30,656:INFO:__main__:Extracting player slugs for >>> Alfajer
+2023-02-04 02:44:30,688:INFO:__main__:Extracting player slugs for >>> koldamenta
+2023-02-04 02:44:31,216:INFO:__main__:Extracting player slugs for >>> Petra
+2023-02-04 02:44:31,260:INFO:__main__:Extracting player slugs for >>> crow
+2023-02-04 02:44:31,386:INFO:__main__:Extracting player slugs for >>> Crws
+2023-02-04 02:44:31,656:INFO:__main__:Extracting player slugs for >>> delz1k
+2023-02-04 02:44:32,008:INFO:__main__:Extracting player slugs for >>> dephh
+2023-02-04 02:44:32,155:INFO:__main__:Extracting player slugs for >>> steel
+2023-02-04 02:44:32,789:INFO:__main__:Extracting player slugs for >>> Mazino
+2023-02-04 02:44:34,820:INFO:__main__:Extracting player slugs for >>> foxz
+2023-02-04 02:44:35,602:INFO:__main__:Extracting player slugs for >>> katsumi
+2023-02-04 02:44:39,969:INFO:__main__:Extracting player slugs for >>> leaf
+2023-02-04 02:45:06,914:INFO:__main__:Queue: 449 | Crawled: 51 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 448 | Crawled: 52 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 447 | Crawled: 53 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 446 | Crawled: 54 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 445 | Crawled: 55 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 444 | Crawled: 56 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 443 | Crawled: 57 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 442 | Crawled: 58 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 441 | Crawled: 59 | Downloaded images: 100
+2023-02-04 02:45:06,915:INFO:__main__:Queue: 440 | Crawled: 60 | Downloaded images: 100
+2023-02-04 02:45:06,916:INFO:__main__:Queue: 439 | Crawled: 61 | Downloaded images: 100
+2023-02-04 02:45:06,916:INFO:__main__:Queue: 438 | Crawled: 62 | Downloaded images: 100
+2023-02-04 02:45:06,916:INFO:__main__:Queue: 437 | Crawled: 63 | Downloaded images: 100
+2023-02-04 02:45:06,916:INFO:__main__:Queue: 436 | Crawled: 64 | Downloaded images: 100
+2023-02-04 02:45:06,916:INFO:__main__:Queue: 435 | Crawled: 65 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 434 | Crawled: 66 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 433 | Crawled: 67 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 432 | Crawled: 68 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 431 | Crawled: 69 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 430 | Crawled: 70 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 429 | Crawled: 71 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 428 | Crawled: 72 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 427 | Crawled: 73 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 426 | Crawled: 74 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 425 | Crawled: 75 | Downloaded images: 100
+2023-02-04 02:45:06,917:INFO:__main__:Queue: 424 | Crawled: 76 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 423 | Crawled: 77 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 422 | Crawled: 78 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 421 | Crawled: 79 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 420 | Crawled: 80 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 419 | Crawled: 81 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 418 | Crawled: 82 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 417 | Crawled: 83 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 416 | Crawled: 84 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 415 | Crawled: 85 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 414 | Crawled: 86 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 413 | Crawled: 87 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 412 | Crawled: 88 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 411 | Crawled: 89 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 410 | Crawled: 90 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 409 | Crawled: 91 | Downloaded images: 100
+2023-02-04 02:45:06,918:INFO:__main__:Queue: 408 | Crawled: 92 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 407 | Crawled: 93 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 406 | Crawled: 94 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 405 | Crawled: 95 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 404 | Crawled: 96 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 403 | Crawled: 97 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 402 | Crawled: 98 | Downloaded images: 100
+2023-02-04 02:45:06,919:INFO:__main__:Queue: 401 | Crawled: 99 | Downloaded images: 100
+2023-02-04 02:45:06,920:INFO:__main__:Queue: 400 | Crawled: 100 | Downloaded images: 100
+2023-02-04 02:45:12,330:INFO:__main__:Extracting player slugs for >>> Hellff
+2023-02-04 02:45:12,526:INFO:__main__:Extracting player slugs for >>> baddyG
+2023-02-04 02:45:12,705:INFO:__main__:Extracting player slugs for >>> frz
+2023-02-04 02:45:12,910:INFO:__main__:Extracting player slugs for >>> daiki
+2023-02-04 02:45:13,099:INFO:__main__:Extracting player slugs for >>> naxy
+2023-02-04 02:45:13,268:INFO:__main__:Extracting player slugs for >>> Davidp
+2023-02-04 02:45:13,558:INFO:__main__:Extracting player slugs for >>> Suggest
+2023-02-04 02:45:13,686:INFO:__main__:Extracting player slugs for >>> Zellsis
+2023-02-04 02:45:14,151:INFO:__main__:Extracting player slugs for >>> barce
+2023-02-04 02:45:14,552:INFO:__main__:Extracting player slugs for >>> babybay
+2023-02-04 02:45:15,216:INFO:__main__:Extracting player slugs for >>> rite2ace
+2023-02-04 02:45:15,376:INFO:__main__:Extracting player slugs for >>> bstrdd
+2023-02-04 02:45:15,473:INFO:__main__:Extracting player slugs for >>> TENNN
+2023-02-04 02:45:15,492:INFO:__main__:Extracting player slugs for >>> Subroza
+2023-02-04 02:45:15,536:INFO:__main__:Extracting player slugs for >>> Leo
+2023-02-04 02:45:15,742:INFO:__main__:Extracting player slugs for >>> Dispenser
+2023-02-04 02:45:15,800:INFO:__main__:Extracting player slugs for >>> xand
+2023-02-04 02:45:16,344:INFO:__main__:Extracting player slugs for >>> nat1
+2023-02-04 02:45:16,731:INFO:__main__:Extracting player slugs for >>> drn
+2023-02-04 02:45:16,869:INFO:__main__:Extracting player slugs for >>> adverso
+2023-02-04 02:45:17,228:INFO:__main__:Extracting player slugs for >>> Derrek
+2023-02-04 02:45:17,379:INFO:__main__:Extracting player slugs for >>> corey
+2023-02-04 02:45:17,425:INFO:__main__:Extracting player slugs for >>> mojj
+2023-02-04 02:45:17,569:INFO:__main__:Extracting player slugs for >>> DubsteP
+2023-02-04 02:45:17,615:INFO:__main__:Extracting player slugs for >>> pyth
+2023-02-04 02:45:17,999:INFO:__main__:Extracting player slugs for >>> takej
+2023-02-04 02:45:18,125:INFO:__main__:Extracting player slugs for >>> Sayf
+2023-02-04 02:45:18,164:INFO:__main__:Extracting player slugs for >>> paTiTek
+2023-02-04 02:45:18,203:INFO:__main__:Extracting player slugs for >>> Nozwerr
+2023-02-04 02:45:18,355:INFO:__main__:Extracting player slugs for >>> Bob
+2023-02-04 02:45:18,594:INFO:__main__:Extracting player slugs for >>> Turko
+2023-02-04 02:45:18,671:INFO:__main__:Extracting player slugs for >>> hoody
+2023-02-04 02:45:18,919:INFO:__main__:Extracting player slugs for >>> SugarZ3ro
+2023-02-04 02:45:19,994:INFO:__main__:Extracting player slugs for >>> drone
+2023-02-04 02:45:20,452:INFO:__main__:Extracting player slugs for >>> bang
+2023-02-04 02:45:20,741:INFO:__main__:Extracting player slugs for >>> Wardell
+2023-02-04 02:45:20,762:INFO:__main__:Extracting player slugs for >>> allow
+2023-02-04 02:45:20,935:INFO:__main__:Extracting player slugs for >>> Xeppaa
+2023-02-04 02:45:20,937:INFO:__main__:Extracting player slugs for >>> kiNgg
+2023-02-04 02:45:21,160:INFO:__main__:Extracting player slugs for >>> Dep
+2023-02-04 02:45:21,240:INFO:__main__:Extracting player slugs for >>> Melser
+2023-02-04 02:45:21,526:INFO:__main__:Extracting player slugs for >>> peri
+2023-02-04 02:45:21,899:INFO:__main__:Extracting player slugs for >>> keloqz
+2023-02-04 02:45:22,010:INFO:__main__:Extracting player slugs for >>> JessieVash
+2023-02-04 02:45:22,343:INFO:__main__:Extracting player slugs for >>> BORKUM
+2023-02-04 02:45:22,567:INFO:__main__:Extracting player slugs for >>> Meddo
+2023-02-04 02:45:23,998:INFO:__main__:Extracting player slugs for >>> stellar
+2023-02-04 02:45:26,760:INFO:__main__:Extracting player slugs for >>> Reita
+2023-02-04 02:45:28,687:INFO:__main__:Extracting player slugs for >>> pAura
+2023-02-04 02:45:38,436:INFO:__main__:Extracting player slugs for >>> JonahP
+2023-02-04 02:45:53,577:INFO:__main__:Queue: 399 | Crawled: 101 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 398 | Crawled: 102 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 397 | Crawled: 103 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 392 | Crawled: 108 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 396 | Crawled: 104 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 394 | Crawled: 106 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 393 | Crawled: 107 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 391 | Crawled: 109 | Downloaded images: 150
+2023-02-04 02:45:53,578:INFO:__main__:Queue: 395 | Crawled: 105 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 390 | Crawled: 110 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 389 | Crawled: 111 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 388 | Crawled: 112 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 387 | Crawled: 113 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 386 | Crawled: 114 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 385 | Crawled: 115 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 384 | Crawled: 116 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 383 | Crawled: 117 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 382 | Crawled: 118 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 381 | Crawled: 119 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 380 | Crawled: 120 | Downloaded images: 150
+2023-02-04 02:45:53,579:INFO:__main__:Queue: 379 | Crawled: 121 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 378 | Crawled: 122 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 377 | Crawled: 123 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 376 | Crawled: 124 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 375 | Crawled: 125 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 374 | Crawled: 126 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 373 | Crawled: 127 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 372 | Crawled: 128 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 371 | Crawled: 129 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 370 | Crawled: 130 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 369 | Crawled: 131 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 368 | Crawled: 132 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 367 | Crawled: 133 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 366 | Crawled: 134 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 365 | Crawled: 135 | Downloaded images: 150
+2023-02-04 02:45:53,580:INFO:__main__:Queue: 364 | Crawled: 136 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 363 | Crawled: 137 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 362 | Crawled: 138 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 361 | Crawled: 139 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 360 | Crawled: 140 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 359 | Crawled: 141 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 358 | Crawled: 142 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 357 | Crawled: 143 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 356 | Crawled: 144 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 355 | Crawled: 145 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 354 | Crawled: 146 | Downloaded images: 150
+2023-02-04 02:45:53,581:INFO:__main__:Queue: 353 | Crawled: 147 | Downloaded images: 150
+2023-02-04 02:45:53,584:INFO:__main__:Queue: 352 | Crawled: 148 | Downloaded images: 150
+2023-02-04 02:45:53,584:INFO:__main__:Queue: 351 | Crawled: 149 | Downloaded images: 150
+2023-02-04 02:45:53,585:INFO:__main__:Queue: 350 | Crawled: 150 | Downloaded images: 150
+2023-02-04 02:45:55,977:INFO:__main__:Extracting player slugs for >>> neT
+2023-02-04 02:45:56,220:INFO:__main__:Extracting player slugs for >>> ShadoW
+2023-02-04 02:45:57,733:INFO:__main__:Extracting player slugs for >>> gtnziN
+2023-02-04 02:45:57,803:INFO:__main__:Extracting player slugs for >>> chrollo
+2023-02-04 02:45:58,227:INFO:__main__:Extracting player slugs for >>> zeddy
+2023-02-04 02:45:59,168:INFO:__main__:Extracting player slugs for >>> blaZek1ng
+2023-02-04 02:46:00,319:INFO:__main__:Extracting player slugs for >>> AsLanM4shadoW
+2023-02-04 02:46:01,517:INFO:__main__:Extracting player slugs for >>> KappA
+2023-02-04 02:46:01,926:INFO:__main__:Extracting player slugs for >>> SpY
+2023-02-04 02:46:01,998:INFO:__main__:Extracting player slugs for >>> PTC
+2023-02-04 02:46:02,058:INFO:__main__:Extracting player slugs for >>> russ
+2023-02-04 02:46:02,263:INFO:__main__:Extracting player slugs for >>> witz
+2023-02-04 02:46:02,328:INFO:__main__:Extracting player slugs for >>> gMd
+2023-02-04 02:46:02,820:INFO:__main__:Extracting player slugs for >>> Medusa
+2023-02-04 02:46:03,036:INFO:__main__:Extracting player slugs for >>> Amaterasu
+2023-02-04 02:46:03,131:INFO:__main__:Extracting player slugs for >>> shalaby
+2023-02-04 02:46:03,198:INFO:__main__:Extracting player slugs for >>> neth
+2023-02-04 02:46:03,520:INFO:__main__:Extracting player slugs for >>> lowel
+2023-02-04 02:46:03,798:INFO:__main__:Extracting player slugs for >>> PureR
+2023-02-04 02:46:03,884:INFO:__main__:Extracting player slugs for >>> dimasick
+2023-02-04 02:46:04,159:INFO:__main__:Extracting player slugs for >>> OuTLaW
+2023-02-04 02:46:04,400:INFO:__main__:Extracting player slugs for >>> STERBEN
+2023-02-04 02:46:04,683:INFO:__main__:Extracting player slugs for >>> HellrangeR
+2023-02-04 02:46:04,874:INFO:__main__:Extracting player slugs for >>> zepher
+2023-02-04 02:46:06,161:INFO:__main__:Extracting player slugs for >>> aimDLL
+2023-02-04 02:46:07,126:INFO:__main__:Extracting player slugs for >>> ZachaREEE
+2023-02-04 02:46:07,248:INFO:__main__:Extracting player slugs for >>> sutecas
+2023-02-04 02:46:07,359:INFO:__main__:Extracting player slugs for >>> qRaxs
+2023-02-04 02:46:07,673:INFO:__main__:Extracting player slugs for >>> penny
+2023-02-04 02:46:08,193:INFO:__main__:Extracting player slugs for >>> reltuC
+2023-02-04 02:46:08,242:INFO:__main__:Extracting player slugs for >>> Shyy
+2023-02-04 02:46:08,402:INFO:__main__:Extracting player slugs for >>> alvar
+2023-02-04 02:46:08,575:INFO:__main__:Extracting player slugs for >>> Khalil
+2023-02-04 02:46:08,748:INFO:__main__:Extracting player slugs for >>> DEATHMAKER
+2023-02-04 02:46:09,074:INFO:__main__:Extracting player slugs for >>> Jonn
+2023-02-04 02:46:09,184:INFO:__main__:Extracting player slugs for >>> Munchkin
+2023-02-04 02:46:09,262:INFO:__main__:Extracting player slugs for >>> mummAy
+2023-02-04 02:46:09,396:INFO:__main__:Extracting player slugs for >>> skillZ
+2023-02-04 02:46:09,727:INFO:__main__:Extracting player slugs for >>> Lightningfast
+2023-02-04 02:46:09,763:INFO:__main__:Extracting player slugs for >>> Surf
+2023-02-04 02:46:10,353:INFO:__main__:Extracting player slugs for >>> SkRossi
+2023-02-04 02:46:10,355:INFO:__main__:Extracting player slugs for >>> aproto
+2023-02-04 02:46:10,426:INFO:__main__:Extracting player slugs for >>> ec1s
+2023-02-04 02:46:11,134:INFO:__main__:Extracting player slugs for >>> Vibhor
+2023-02-04 02:46:12,212:INFO:__main__:Extracting player slugs for >>> murizzz
+2023-02-04 02:46:13,544:INFO:__main__:Extracting player slugs for >>> Moh
+2023-02-04 02:46:15,111:INFO:__main__:Extracting player slugs for >>> valyn
+2023-02-04 02:46:16,152:INFO:__main__:Extracting player slugs for >>> Fr4nky
+2023-02-04 02:46:18,537:INFO:__main__:Extracting player slugs for >>> qck
+2023-02-04 02:46:19,613:INFO:__main__:Extracting player slugs for >>> mwzera
+2023-02-04 02:47:16,038:INFO:__main__:Queue: 349 | Crawled: 151 | Downloaded images: 200
+2023-02-04 02:47:16,041:INFO:__main__:Queue: 348 | Crawled: 152 | Downloaded images: 200
+2023-02-04 02:47:16,043:INFO:__main__:Queue: 347 | Crawled: 153 | Downloaded images: 200
+2023-02-04 02:47:16,043:INFO:__main__:Queue: 346 | Crawled: 154 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 345 | Crawled: 155 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 344 | Crawled: 156 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 343 | Crawled: 157 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 342 | Crawled: 158 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 341 | Crawled: 159 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 340 | Crawled: 160 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 339 | Crawled: 161 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 338 | Crawled: 162 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 337 | Crawled: 163 | Downloaded images: 200
+2023-02-04 02:47:16,044:INFO:__main__:Queue: 336 | Crawled: 164 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 335 | Crawled: 165 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 334 | Crawled: 166 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 333 | Crawled: 167 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 332 | Crawled: 168 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 331 | Crawled: 169 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 330 | Crawled: 170 | Downloaded images: 200
+2023-02-04 02:47:16,045:INFO:__main__:Queue: 329 | Crawled: 171 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 328 | Crawled: 172 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 325 | Crawled: 175 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 326 | Crawled: 174 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 327 | Crawled: 173 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 324 | Crawled: 176 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 323 | Crawled: 177 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 322 | Crawled: 178 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 321 | Crawled: 179 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 320 | Crawled: 180 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 319 | Crawled: 181 | Downloaded images: 200
+2023-02-04 02:47:16,046:INFO:__main__:Queue: 318 | Crawled: 182 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 317 | Crawled: 183 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 316 | Crawled: 184 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 315 | Crawled: 185 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 314 | Crawled: 186 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 313 | Crawled: 187 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 312 | Crawled: 188 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 311 | Crawled: 189 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 310 | Crawled: 190 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 309 | Crawled: 191 | Downloaded images: 200
+2023-02-04 02:47:16,047:INFO:__main__:Queue: 308 | Crawled: 192 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 307 | Crawled: 193 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 306 | Crawled: 194 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 305 | Crawled: 195 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 304 | Crawled: 196 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 303 | Crawled: 197 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 302 | Crawled: 198 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 301 | Crawled: 199 | Downloaded images: 200
+2023-02-04 02:47:16,048:INFO:__main__:Queue: 300 | Crawled: 200 | Downloaded images: 200
+2023-02-04 02:47:19,693:INFO:__main__:Extracting player slugs for >>> bonkar
+2023-02-04 02:47:20,440:INFO:__main__:Extracting player slugs for >>> s0m
+2023-02-04 02:47:20,587:INFO:__main__:Extracting player slugs for >>> MkaeL
+2023-02-04 02:47:20,770:INFO:__main__:Extracting player slugs for >>> Genghsta
+2023-02-04 02:47:21,051:INFO:__main__:Extracting player slugs for >>> JohnOlsen
+2023-02-04 02:47:22,135:INFO:__main__:Extracting player slugs for >>> avez
+2023-02-04 02:47:24,566:INFO:__main__:Extracting player slugs for >>> Rainy
+2023-02-04 02:47:25,390:INFO:__main__:Extracting player slugs for >>> SasuKe
+2023-02-04 02:47:25,564:INFO:__main__:Extracting player slugs for >>> Coffee
+2023-02-04 02:47:26,555:INFO:__main__:Extracting player slugs for >>> ChAlalala
+2023-02-04 02:47:27,219:INFO:__main__:Extracting player slugs for >>> JinNy
+2023-02-04 02:47:27,362:INFO:__main__:Extracting player slugs for >>> trent
+2023-02-04 02:47:27,916:INFO:__main__:Extracting player slugs for >>> mazin
+2023-02-04 02:47:28,226:INFO:__main__:Extracting player slugs for >>> Wedid
+2023-02-04 02:47:28,271:INFO:__main__:Extracting player slugs for >>> tex
+2023-02-04 02:47:28,453:INFO:__main__:Extracting player slugs for >>> eeiu
+2023-02-04 02:47:28,494:INFO:__main__:Extracting player slugs for >>> rhyme
+2023-02-04 02:47:28,614:INFO:__main__:Extracting player slugs for >>> huynh
+2023-02-04 02:47:28,890:INFO:__main__:Extracting player slugs for >>> supamen
+2023-02-04 02:47:28,990:INFO:__main__:Extracting player slugs for >>> AKUMAAAAA
+2023-02-04 02:47:29,309:INFO:__main__:Extracting player slugs for >>> fr0st
+2023-02-04 02:47:29,435:INFO:__main__:Extracting player slugs for >>> dicey
+2023-02-04 02:47:29,996:INFO:__main__:Extracting player slugs for >>> Tehbotol
+2023-02-04 02:47:30,070:INFO:__main__:Extracting player slugs for >>> Patiphan
+2023-02-04 02:47:30,147:INFO:__main__:Extracting player slugs for >>> Antidote
+2023-02-04 02:47:30,149:INFO:__main__:Extracting player slugs for >>> mag0o
+2023-02-04 02:47:30,183:INFO:__main__:Extracting player slugs for >>> qw1
+2023-02-04 02:47:30,665:INFO:__main__:Extracting player slugs for >>> Bazzi
+2023-02-04 02:47:30,840:INFO:__main__:Extracting player slugs for >>> moose
+2023-02-04 02:47:31,305:INFO:__main__:Extracting player slugs for >>> ceNder
+2023-02-04 02:47:32,462:INFO:__main__:Extracting player slugs for >>> Deryeon
+2023-02-04 02:47:32,514:INFO:__main__:Extracting player slugs for >>> Russ
+2023-02-04 02:47:32,758:INFO:__main__:Extracting player slugs for >>> Art1st
+2023-02-04 02:47:32,846:INFO:__main__:Extracting player slugs for >>> exy
+2023-02-04 02:47:33,453:INFO:__main__:Extracting player slugs for >>> Yacine
+2023-02-04 02:47:33,702:INFO:__main__:Extracting player slugs for >>> trexx
+2023-02-04 02:47:34,008:INFO:__main__:Extracting player slugs for >>> niesoW
+2023-02-04 02:47:34,101:INFO:__main__:Extracting player slugs for >>> Sayaplayer
+2023-02-04 02:47:34,444:INFO:__main__:Extracting player slugs for >>> draken
+2023-02-04 02:47:34,801:INFO:__main__:Extracting player slugs for >>> kaboose
+2023-02-04 02:47:35,947:INFO:__main__:Extracting player slugs for >>> poised
+2023-02-04 02:47:36,150:INFO:__main__:Extracting player slugs for >>> BerserX
+2023-02-04 02:47:36,529:INFO:__main__:Extracting player slugs for >>> fl1pzjder
+2023-02-04 02:47:37,430:INFO:__main__:Extracting player slugs for >>> heat
+2023-02-04 02:47:38,326:INFO:__main__:Extracting player slugs for >>> TS
+2023-02-04 02:47:40,344:INFO:__main__:Extracting player slugs for >>> Excali
+2023-02-04 02:47:40,802:INFO:__main__:Extracting player slugs for >>> LAMMYSNAX
+2023-02-04 02:47:41,875:INFO:__main__:Extracting player slugs for >>> Muj
+2023-02-04 02:47:45,611:INFO:__main__:Extracting player slugs for >>> Tuna
+2023-02-04 02:47:46,175:INFO:__main__:Extracting player slugs for >>> v1xen
+2023-02-04 02:48:21,912:INFO:__main__:Queue: 299 | Crawled: 201 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 298 | Crawled: 202 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 297 | Crawled: 203 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 296 | Crawled: 204 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 295 | Crawled: 205 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 294 | Crawled: 206 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 293 | Crawled: 207 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 292 | Crawled: 208 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 291 | Crawled: 209 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 290 | Crawled: 210 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 289 | Crawled: 211 | Downloaded images: 250
+2023-02-04 02:48:21,913:INFO:__main__:Queue: 288 | Crawled: 212 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 287 | Crawled: 213 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 286 | Crawled: 214 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 285 | Crawled: 215 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 284 | Crawled: 216 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 283 | Crawled: 217 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 282 | Crawled: 218 | Downloaded images: 250
+2023-02-04 02:48:21,914:INFO:__main__:Queue: 281 | Crawled: 219 | Downloaded images: 250
+2023-02-04 02:48:21,915:INFO:__main__:Queue: 280 | Crawled: 220 | Downloaded images: 250
+2023-02-04 02:48:21,915:INFO:__main__:Queue: 279 | Crawled: 221 | Downloaded images: 250
+2023-02-04 02:48:21,915:INFO:__main__:Queue: 278 | Crawled: 222 | Downloaded images: 250
+2023-02-04 02:48:21,915:INFO:__main__:Queue: 277 | Crawled: 223 | Downloaded images: 250
+2023-02-04 02:48:21,915:INFO:__main__:Queue: 276 | Crawled: 224 | Downloaded images: 250
+2023-02-04 02:48:21,915:INFO:__main__:Queue: 275 | Crawled: 225 | Downloaded images: 250
+2023-02-04 02:48:21,916:INFO:__main__:Queue: 274 | Crawled: 226 | Downloaded images: 250
+2023-02-04 02:48:21,916:INFO:__main__:Queue: 273 | Crawled: 227 | Downloaded images: 250
+2023-02-04 02:48:21,916:INFO:__main__:Queue: 272 | Crawled: 228 | Downloaded images: 250
+2023-02-04 02:48:21,916:INFO:__main__:Queue: 271 | Crawled: 229 | Downloaded images: 250
+2023-02-04 02:48:21,916:INFO:__main__:Queue: 270 | Crawled: 230 | Downloaded images: 250
+2023-02-04 02:48:21,916:INFO:__main__:Queue: 269 | Crawled: 231 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 268 | Crawled: 232 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 267 | Crawled: 233 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 266 | Crawled: 234 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 265 | Crawled: 235 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 264 | Crawled: 236 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 263 | Crawled: 237 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 262 | Crawled: 238 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 261 | Crawled: 239 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 260 | Crawled: 240 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 259 | Crawled: 241 | Downloaded images: 250
+2023-02-04 02:48:21,917:INFO:__main__:Queue: 258 | Crawled: 242 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 257 | Crawled: 243 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 256 | Crawled: 244 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 255 | Crawled: 245 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 254 | Crawled: 246 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 253 | Crawled: 247 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 252 | Crawled: 248 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 251 | Crawled: 249 | Downloaded images: 250
+2023-02-04 02:48:21,918:INFO:__main__:Queue: 250 | Crawled: 250 | Downloaded images: 250
+2023-02-04 02:48:24,271:INFO:__main__:Extracting player slugs for >>> chiwawa
+2023-02-04 02:48:24,543:INFO:__main__:Extracting player slugs for >>> ANDROID
+2023-02-04 02:48:28,203:INFO:__main__:Extracting player slugs for >>> thief
+2023-02-04 02:48:28,481:INFO:__main__:Extracting player slugs for >>> fznnn
+2023-02-04 02:48:28,903:INFO:__main__:Extracting player slugs for >>> Shniider
+2023-02-04 02:48:29,321:INFO:__main__:Extracting player slugs for >>> MrFaliN
+2023-02-04 02:48:29,617:INFO:__main__:Extracting player slugs for >>> LEXY
+2023-02-04 02:48:29,921:INFO:__main__:Extracting player slugs for >>> Duno
+2023-02-04 02:48:30,051:INFO:__main__:Extracting player slugs for >>> brawk
+2023-02-04 02:48:30,441:INFO:__main__:Extracting player slugs for >>> RockeT
+2023-02-04 02:48:30,675:INFO:__main__:Extracting player slugs for >>> Ness
+2023-02-04 02:48:30,900:INFO:__main__:Extracting player slugs for >>> NcSlasher
+2023-02-04 02:48:30,988:INFO:__main__:Extracting player slugs for >>> koalanoob
+2023-02-04 02:48:31,602:INFO:__main__:Extracting player slugs for >>> Marzil
+2023-02-04 02:48:31,806:INFO:__main__:Extracting player slugs for >>> jfoeN
+2023-02-04 02:48:31,936:INFO:__main__:Extracting player slugs for >>> Critical
+2023-02-04 02:48:32,120:INFO:__main__:Extracting player slugs for >>> Rexy
+2023-02-04 02:48:32,195:INFO:__main__:Extracting player slugs for >>> HyP
+2023-02-04 02:48:32,557:INFO:__main__:Extracting player slugs for >>> Depyro
+2023-02-04 02:48:32,999:INFO:__main__:Extracting player slugs for >>> rodeN
+2023-02-04 02:48:33,176:INFO:__main__:Extracting player slugs for >>> Kongared
+2023-02-04 02:48:33,194:INFO:__main__:Extracting player slugs for >>> Esperanza
+2023-02-04 02:48:33,299:INFO:__main__:Extracting player slugs for >>> Zander
+2023-02-04 02:48:33,413:INFO:__main__:Extracting player slugs for >>> roxi
+2023-02-04 02:48:33,456:INFO:__main__:Extracting player slugs for >>> XiSTOU
+2023-02-04 02:48:33,542:INFO:__main__:Extracting player slugs for >>> kero
+2023-02-04 02:48:33,977:INFO:__main__:Extracting player slugs for >>> crazyguy
+2023-02-04 02:48:34,434:INFO:__main__:Extracting player slugs for >>> Boo
+2023-02-04 02:48:34,552:INFO:__main__:Extracting player slugs for >>> zizox
+2023-02-04 02:48:34,663:INFO:__main__:Extracting player slugs for >>> CREA
+2023-02-04 02:48:34,706:INFO:__main__:Extracting player slugs for >>> logaN
+2023-02-04 02:48:34,877:INFO:__main__:Extracting player slugs for >>> RvK
+2023-02-04 02:48:35,396:INFO:__main__:Extracting player slugs for >>> Sand
+2023-02-04 02:48:36,226:INFO:__main__:Extracting player slugs for >>> hoppY
+2023-02-04 02:48:36,260:INFO:__main__:Extracting player slugs for >>> klaudia
+2023-02-04 02:48:36,342:INFO:__main__:Extracting player slugs for >>> YaBoiDre
+2023-02-04 02:48:36,524:INFO:__main__:Extracting player slugs for >>> Daveeys
+2023-02-04 02:48:36,688:INFO:__main__:Extracting player slugs for >>> neptune
+2023-02-04 02:48:36,768:INFO:__main__:Extracting player slugs for >>> Rawfiul
+2023-02-04 02:48:37,083:INFO:__main__:Extracting player slugs for >>> bnj
+2023-02-04 02:48:37,266:INFO:__main__:Extracting player slugs for >>> Jady
+2023-02-04 02:48:38,738:INFO:__main__:Extracting player slugs for >>> LEGOO
+2023-02-04 02:48:38,810:INFO:__main__:Extracting player slugs for >>> Fit1nho
+2023-02-04 02:48:39,787:INFO:__main__:Extracting player slugs for >>> Smurfette
+2023-02-04 02:48:40,153:INFO:__main__:Extracting player slugs for >>> Nyang
+2023-02-04 02:48:41,110:INFO:__main__:Extracting player slugs for >>> Cloud
+2023-02-04 02:48:41,315:INFO:__main__:Extracting player slugs for >>> luckeRRR
+2023-02-04 02:48:41,506:INFO:__main__:Extracting player slugs for >>> Will
+2023-02-04 02:48:46,447:INFO:__main__:Extracting player slugs for >>> jcStani
+2023-02-04 02:48:49,444:INFO:__main__:Extracting player slugs for >>> vakk
+2023-02-04 02:49:09,842:INFO:__main__:Queue: 249 | Crawled: 251 | Downloaded images: 300
+2023-02-04 02:49:09,842:INFO:__main__:Queue: 248 | Crawled: 252 | Downloaded images: 300
+2023-02-04 02:49:09,842:INFO:__main__:Queue: 247 | Crawled: 253 | Downloaded images: 300
+2023-02-04 02:49:09,842:INFO:__main__:Queue: 246 | Crawled: 254 | Downloaded images: 300
+2023-02-04 02:49:09,842:INFO:__main__:Queue: 245 | Crawled: 255 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 244 | Crawled: 256 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 243 | Crawled: 257 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 242 | Crawled: 258 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 241 | Crawled: 259 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 240 | Crawled: 260 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 239 | Crawled: 261 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 238 | Crawled: 262 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 237 | Crawled: 263 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 236 | Crawled: 264 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 235 | Crawled: 265 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 234 | Crawled: 266 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 233 | Crawled: 267 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 232 | Crawled: 268 | Downloaded images: 300
+2023-02-04 02:49:09,843:INFO:__main__:Queue: 231 | Crawled: 269 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 230 | Crawled: 270 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 229 | Crawled: 271 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 228 | Crawled: 272 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 227 | Crawled: 273 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 226 | Crawled: 274 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 225 | Crawled: 275 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 224 | Crawled: 276 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 223 | Crawled: 277 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 222 | Crawled: 278 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 221 | Crawled: 279 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 220 | Crawled: 280 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 219 | Crawled: 281 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 218 | Crawled: 282 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 217 | Crawled: 283 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 216 | Crawled: 284 | Downloaded images: 300
+2023-02-04 02:49:09,844:INFO:__main__:Queue: 215 | Crawled: 285 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 214 | Crawled: 286 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 213 | Crawled: 287 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 212 | Crawled: 288 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 211 | Crawled: 289 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 210 | Crawled: 290 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 209 | Crawled: 291 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 208 | Crawled: 292 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 207 | Crawled: 293 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 206 | Crawled: 294 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 205 | Crawled: 295 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 204 | Crawled: 296 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 203 | Crawled: 297 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 202 | Crawled: 298 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 201 | Crawled: 299 | Downloaded images: 300
+2023-02-04 02:49:09,845:INFO:__main__:Queue: 200 | Crawled: 300 | Downloaded images: 300
+2023-02-04 02:49:13,507:INFO:__main__:Extracting player slugs for >>> Texta
+2023-02-04 02:49:13,540:INFO:__main__:Extracting player slugs for >>> frostmind
+2023-02-04 02:49:14,060:INFO:__main__:Extracting player slugs for >>> Theia
+2023-02-04 02:49:14,232:INFO:__main__:Extracting player slugs for >>> Muffyn
+2023-02-04 02:49:14,639:INFO:__main__:Extracting player slugs for >>> jammyz
+2023-02-04 02:49:14,864:INFO:__main__:Extracting player slugs for >>> zunba
+2023-02-04 02:49:15,086:INFO:__main__:Extracting player slugs for >>> POACH
+2023-02-04 02:49:17,002:INFO:__main__:Extracting player slugs for >>> bdog
+2023-02-04 02:49:17,177:INFO:__main__:Extracting player slugs for >>> rain
+2023-02-04 02:49:17,443:INFO:__main__:Extracting player slugs for >>> toronto
+2023-02-04 02:49:17,627:INFO:__main__:Extracting player slugs for >>> jawgemo
+2023-02-04 02:49:18,156:INFO:__main__:Extracting player slugs for >>> Shawn
+2023-02-04 02:49:18,355:INFO:__main__:Extracting player slugs for >>> Gucc107
+2023-02-04 02:49:18,391:INFO:__main__:Extracting player slugs for >>> Clawdia
+2023-02-04 02:49:18,657:INFO:__main__:Extracting player slugs for >>> panini
+2023-02-04 02:49:18,783:INFO:__main__:Extracting player slugs for >>> Harry
+2023-02-04 02:49:18,928:INFO:__main__:Extracting player slugs for >>> c4Lypso
+2023-02-04 02:49:19,096:INFO:__main__:Extracting player slugs for >>> aNNja
+2023-02-04 02:49:19,238:INFO:__main__:Extracting player slugs for >>> Winteryrook
+2023-02-04 02:49:19,592:INFO:__main__:Extracting player slugs for >>> PLAYER1
+2023-02-04 02:49:20,434:INFO:__main__:Extracting player slugs for >>> Shiro
+2023-02-04 02:49:20,934:INFO:__main__:Extracting player slugs for >>> eKo
+2023-02-04 02:49:21,005:INFO:__main__:Extracting player slugs for >>> DeNaro
+2023-02-04 02:49:21,068:INFO:__main__:Extracting player slugs for >>> Lmemore
+2023-02-04 02:49:21,090:INFO:__main__:Extracting player slugs for >>> ShoT_UP
+2023-02-04 02:49:21,265:INFO:__main__:Extracting player slugs for >>> 10X
+2023-02-04 02:49:21,324:INFO:__main__:Extracting player slugs for >>> Izzy
+2023-02-04 02:49:21,731:INFO:__main__:Extracting player slugs for >>> showliana
+2023-02-04 02:49:22,545:INFO:__main__:Extracting player slugs for >>> it not han
+2023-02-04 02:49:22,554:INFO:__main__:Extracting player slugs for >>> Brave
+2023-02-04 02:49:22,883:INFO:__main__:Extracting player slugs for >>> retrQ
+2023-02-04 02:49:23,148:INFO:__main__:Extracting player slugs for >>> wannafly
+2023-02-04 02:49:23,192:INFO:__main__:Extracting player slugs for >>> t3xture
+2023-02-04 02:49:23,262:INFO:__main__:Extracting player slugs for >>> Secret
+2023-02-04 02:49:23,395:INFO:__main__:Extracting player slugs for >>> EMUHLEET
+2023-02-04 02:49:23,496:INFO:__main__:Extracting player slugs for >>> thwifo
+2023-02-04 02:49:23,779:INFO:__main__:Extracting player slugs for >>> Fisker
+2023-02-04 02:49:24,110:INFO:__main__:Extracting player slugs for >>> Efina
+2023-02-04 02:49:24,239:INFO:__main__:Extracting player slugs for >>> GODLIKE
+2023-02-04 02:49:24,553:INFO:__main__:Extracting player slugs for >>> dinkzj
+2023-02-04 02:49:24,908:INFO:__main__:Extracting player slugs for >>> ade
+2023-02-04 02:49:24,934:INFO:__main__:Extracting player slugs for >>> m1tez
+2023-02-04 02:49:25,009:INFO:__main__:Extracting player slugs for >>> TakaS
+2023-02-04 02:49:25,408:INFO:__main__:Extracting player slugs for >>> disk0
+2023-02-04 02:49:25,537:INFO:__main__:Extracting player slugs for >>> NaturE
+2023-02-04 02:49:25,646:INFO:__main__:Extracting player slugs for >>> xander
+2023-02-04 02:49:26,182:INFO:__main__:Extracting player slugs for >>> MOLSI
+2023-02-04 02:49:27,155:INFO:__main__:Extracting player slugs for >>> hype
+2023-02-04 02:49:29,591:INFO:__main__:Extracting player slugs for >>> krain
+2023-02-04 02:49:31,542:INFO:__main__:Extracting player slugs for >>> Kant
+2023-02-04 02:50:03,942:INFO:__main__:Queue: 199 | Crawled: 301 | Downloaded images: 350
+2023-02-04 02:50:03,942:INFO:__main__:Queue: 198 | Crawled: 302 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 197 | Crawled: 303 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 196 | Crawled: 304 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 195 | Crawled: 305 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 194 | Crawled: 306 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 193 | Crawled: 307 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 192 | Crawled: 308 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 191 | Crawled: 309 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 190 | Crawled: 310 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 189 | Crawled: 311 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 188 | Crawled: 312 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 187 | Crawled: 313 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 186 | Crawled: 314 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 185 | Crawled: 315 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 184 | Crawled: 316 | Downloaded images: 350
+2023-02-04 02:50:03,943:INFO:__main__:Queue: 183 | Crawled: 317 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 182 | Crawled: 318 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 181 | Crawled: 319 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 180 | Crawled: 320 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 179 | Crawled: 321 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 178 | Crawled: 322 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 177 | Crawled: 323 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 176 | Crawled: 324 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 175 | Crawled: 325 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 174 | Crawled: 326 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 173 | Crawled: 327 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 172 | Crawled: 328 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 171 | Crawled: 329 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 170 | Crawled: 330 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 169 | Crawled: 331 | Downloaded images: 350
+2023-02-04 02:50:03,944:INFO:__main__:Queue: 168 | Crawled: 332 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 167 | Crawled: 333 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 166 | Crawled: 334 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 165 | Crawled: 335 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 164 | Crawled: 336 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 163 | Crawled: 337 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 162 | Crawled: 338 | Downloaded images: 350
+2023-02-04 02:50:03,945:INFO:__main__:Queue: 161 | Crawled: 339 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 160 | Crawled: 340 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 159 | Crawled: 341 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 158 | Crawled: 342 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 157 | Crawled: 343 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 156 | Crawled: 344 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 155 | Crawled: 345 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 154 | Crawled: 346 | Downloaded images: 350
+2023-02-04 02:50:03,946:INFO:__main__:Queue: 153 | Crawled: 347 | Downloaded images: 350
+2023-02-04 02:50:03,947:INFO:__main__:Queue: 152 | Crawled: 348 | Downloaded images: 350
+2023-02-04 02:50:03,947:INFO:__main__:Queue: 151 | Crawled: 349 | Downloaded images: 350
+2023-02-04 02:50:03,947:INFO:__main__:Queue: 150 | Crawled: 350 | Downloaded images: 350
+2023-02-04 02:50:07,001:INFO:__main__:Extracting player slugs for >>> phaze
+2023-02-04 02:50:07,471:INFO:__main__:Extracting player slugs for >>> W1nner
+2023-02-04 02:50:07,672:INFO:__main__:Extracting player slugs for >>> randyySAVAGE
+2023-02-04 02:50:07,767:INFO:__main__:Extracting player slugs for >>> bezn1
+2023-02-04 02:50:08,076:INFO:__main__:Extracting player slugs for >>> b0i
+2023-02-04 02:50:10,008:INFO:__main__:Extracting player slugs for >>> 7ssk7
+2023-02-04 02:50:10,615:INFO:__main__:Extracting player slugs for >>> Whimp
+2023-02-04 02:50:10,978:INFO:__main__:Extracting player slugs for >>> NiSMO
+2023-02-04 02:50:11,027:INFO:__main__:Extracting player slugs for >>> poly
+2023-02-04 02:50:11,336:INFO:__main__:Extracting player slugs for >>> SEVERiNE
+2023-02-04 02:50:11,546:INFO:__main__:Extracting player slugs for >>> pleets
+2023-02-04 02:50:11,659:INFO:__main__:Extracting player slugs for >>> Sp1ke
+2023-02-04 02:50:11,961:INFO:__main__:Extracting player slugs for >>> wippie
+2023-02-04 02:50:12,849:INFO:__main__:Extracting player slugs for >>> juicy
+2023-02-04 02:50:12,966:INFO:__main__:Extracting player slugs for >>> dgzin
+2023-02-04 02:50:13,167:INFO:__main__:Extracting player slugs for >>> Moe40
+2023-02-04 02:50:13,567:INFO:__main__:Extracting player slugs for >>> ChoboMe
+2023-02-04 02:50:13,884:INFO:__main__:Extracting player slugs for >>> seven
+2023-02-04 02:50:14,070:INFO:__main__:Extracting player slugs for >>> myssen
+2023-02-04 02:50:14,336:INFO:__main__:Extracting player slugs for >>> Ambi
+2023-02-04 02:50:14,373:INFO:__main__:Extracting player slugs for >>> Lok1
+2023-02-04 02:50:14,545:INFO:__main__:Extracting player slugs for >>> psy
+2023-02-04 02:50:15,380:INFO:__main__:Extracting player slugs for >>> cauanzin
+2023-02-04 02:50:15,612:INFO:__main__:Extracting player slugs for >>> adrnking
+2023-02-04 02:50:15,683:INFO:__main__:Extracting player slugs for >>> SuperBusS
+2023-02-04 02:50:16,309:INFO:__main__:Extracting player slugs for >>> prozin
+2023-02-04 02:50:16,397:INFO:__main__:Extracting player slugs for >>> Daicute
+2023-02-04 02:50:16,585:INFO:__main__:Extracting player slugs for >>> TiGG
+2023-02-04 02:50:16,947:INFO:__main__:Extracting player slugs for >>> Dcop
+2023-02-04 02:50:17,024:INFO:__main__:Extracting player slugs for >>> Meteor
+2023-02-04 02:50:17,310:INFO:__main__:Extracting player slugs for >>> Akashi
+2023-02-04 02:50:17,929:INFO:__main__:Extracting player slugs for >>> babytz
+2023-02-04 02:50:18,399:INFO:__main__:Extracting player slugs for >>> THEE
+2023-02-04 02:50:18,528:INFO:__main__:Extracting player slugs for >>> Iyo
+2023-02-04 02:50:18,793:INFO:__main__:Extracting player slugs for >>> insider
+2023-02-04 02:50:19,099:INFO:__main__:Extracting player slugs for >>> Retla
+2023-02-04 02:50:19,159:INFO:__main__:Extracting player slugs for >>> Paincakes
+2023-02-04 02:50:19,356:INFO:__main__:Extracting player slugs for >>> mw1
+2023-02-04 02:50:19,542:INFO:__main__:Extracting player slugs for >>> Stefanie
+2023-02-04 02:50:19,632:INFO:__main__:Extracting player slugs for >>> H1ber
+2023-02-04 02:50:19,715:INFO:__main__:Extracting player slugs for >>> flyuh
+2023-02-04 02:50:19,741:INFO:__main__:Extracting player slugs for >>> Jeong Hi
+2023-02-04 02:50:20,329:INFO:__main__:Extracting player slugs for >>> JoXJo
+2023-02-04 02:50:20,330:INFO:__main__:Extracting player slugs for >>> YESicaN
+2023-02-04 02:50:20,618:INFO:__main__:Extracting player slugs for >>> lauress
+2023-02-04 02:50:22,791:INFO:__main__:Extracting player slugs for >>> purp0
+2023-02-04 02:50:24,447:INFO:__main__:Extracting player slugs for >>> naTz
+2023-02-04 02:50:25,249:INFO:__main__:Extracting player slugs for >>> Kishi
+2023-02-04 02:50:26,273:INFO:__main__:Extracting player slugs for >>> roxie
+2023-02-04 02:50:26,462:INFO:__main__:Extracting player slugs for >>> shion
+2023-02-04 02:50:56,647:INFO:__main__:Queue: 149 | Crawled: 351 | Downloaded images: 400
+2023-02-04 02:50:56,647:INFO:__main__:Queue: 148 | Crawled: 352 | Downloaded images: 400
+2023-02-04 02:50:56,647:INFO:__main__:Queue: 147 | Crawled: 353 | Downloaded images: 400
+2023-02-04 02:50:56,648:INFO:__main__:Queue: 146 | Crawled: 354 | Downloaded images: 400
+2023-02-04 02:50:56,648:INFO:__main__:Queue: 145 | Crawled: 355 | Downloaded images: 400
+2023-02-04 02:50:56,648:INFO:__main__:Queue: 144 | Crawled: 356 | Downloaded images: 400
+2023-02-04 02:50:56,648:INFO:__main__:Queue: 143 | Crawled: 357 | Downloaded images: 400
+2023-02-04 02:50:56,648:INFO:__main__:Queue: 142 | Crawled: 358 | Downloaded images: 400
+2023-02-04 02:50:56,648:INFO:__main__:Queue: 141 | Crawled: 359 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 140 | Crawled: 360 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 139 | Crawled: 361 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 138 | Crawled: 362 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 137 | Crawled: 363 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 136 | Crawled: 364 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 135 | Crawled: 365 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 134 | Crawled: 366 | Downloaded images: 400
+2023-02-04 02:50:56,649:INFO:__main__:Queue: 133 | Crawled: 367 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 132 | Crawled: 368 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 131 | Crawled: 369 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 130 | Crawled: 370 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 129 | Crawled: 371 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 128 | Crawled: 372 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 127 | Crawled: 373 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 126 | Crawled: 374 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 125 | Crawled: 375 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 124 | Crawled: 376 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 123 | Crawled: 377 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 122 | Crawled: 378 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 121 | Crawled: 379 | Downloaded images: 400
+2023-02-04 02:50:56,650:INFO:__main__:Queue: 120 | Crawled: 380 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 119 | Crawled: 381 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 118 | Crawled: 382 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 117 | Crawled: 383 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 116 | Crawled: 384 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 115 | Crawled: 385 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 114 | Crawled: 386 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 113 | Crawled: 387 | Downloaded images: 400
+2023-02-04 02:50:56,651:INFO:__main__:Queue: 112 | Crawled: 388 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 111 | Crawled: 389 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 110 | Crawled: 390 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 109 | Crawled: 391 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 108 | Crawled: 392 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 107 | Crawled: 393 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 106 | Crawled: 394 | Downloaded images: 400
+2023-02-04 02:50:56,652:INFO:__main__:Queue: 105 | Crawled: 395 | Downloaded images: 400
+2023-02-04 02:50:56,653:INFO:__main__:Queue: 104 | Crawled: 396 | Downloaded images: 400
+2023-02-04 02:50:56,653:INFO:__main__:Queue: 103 | Crawled: 397 | Downloaded images: 400
+2023-02-04 02:50:56,653:INFO:__main__:Queue: 102 | Crawled: 398 | Downloaded images: 400
+2023-02-04 02:50:56,653:INFO:__main__:Queue: 101 | Crawled: 399 | Downloaded images: 400
+2023-02-04 02:50:56,657:INFO:__main__:Queue: 100 | Crawled: 400 | Downloaded images: 400
+2023-02-04 02:51:02,077:INFO:__main__:Extracting player slugs for >>> fiveK
+2023-02-04 02:51:03,259:INFO:__main__:Extracting player slugs for >>> iFly
+2023-02-04 02:51:03,522:INFO:__main__:Extracting player slugs for >>> sickLy
+2023-02-04 02:51:03,574:INFO:__main__:Extracting player slugs for >>> ntk
+2023-02-04 02:51:03,687:INFO:__main__:Extracting player slugs for >>> blackhawk
+2023-02-04 02:51:03,849:INFO:__main__:Extracting player slugs for >>> bramz
+2023-02-04 02:51:04,715:INFO:__main__:Extracting player slugs for >>> mada
+2023-02-04 02:51:04,771:INFO:__main__:Extracting player slugs for >>> fra
+2023-02-04 02:51:05,044:INFO:__main__:Extracting player slugs for >>> AslaN
+2023-02-04 02:51:05,066:INFO:__main__:Extracting player slugs for >>> Eeyore
+2023-02-04 02:51:05,143:INFO:__main__:Extracting player slugs for >>> Ange
+2023-02-04 02:51:05,148:INFO:__main__:Extracting player slugs for >>> Acetics
+2023-02-04 02:51:05,155:INFO:__main__:Extracting player slugs for >>> feqew
+2023-02-04 02:51:05,340:INFO:__main__:Extracting player slugs for >>> Kanpeki
+2023-02-04 02:51:05,539:INFO:__main__:Extracting player slugs for >>> Milk
+2023-02-04 02:51:05,621:INFO:__main__:Extracting player slugs for >>> dip
+2023-02-04 02:51:05,670:INFO:__main__:Extracting player slugs for >>> famouz
+2023-02-04 02:51:06,026:INFO:__main__:Extracting player slugs for >>> zAAz
+2023-02-04 02:51:06,479:INFO:__main__:Extracting player slugs for >>> Rheat
+2023-02-04 02:51:06,688:INFO:__main__:Extracting player slugs for >>> Dazlly
+2023-02-04 02:51:06,933:INFO:__main__:Extracting player slugs for >>> GodDead
+2023-02-04 02:51:07,018:INFO:__main__:Extracting player slugs for >>> furbsa
+2023-02-04 02:51:07,209:INFO:__main__:Extracting player slugs for >>> Hate
+2023-02-04 02:51:07,757:INFO:__main__:Extracting player slugs for >>> Eugene
+2023-02-04 02:51:07,997:INFO:__main__:Extracting player slugs for >>> Alejo
+2023-02-04 02:51:08,186:INFO:__main__:Extracting player slugs for >>> matheuzin
+2023-02-04 02:51:08,303:INFO:__main__:Extracting player slugs for >>> SkaNoodles
+2023-02-04 02:51:08,428:INFO:__main__:Extracting player slugs for >>> Governor
+2023-02-04 02:51:08,433:INFO:__main__:Extracting player slugs for >>> johnqt
+2023-02-04 02:51:08,602:INFO:__main__:Extracting player slugs for >>> Bjor
+2023-02-04 02:51:08,787:INFO:__main__:Extracting player slugs for >>> shooterR
+2023-02-04 02:51:09,214:INFO:__main__:Extracting player slugs for >>> iNTRO
+2023-02-04 02:51:09,459:INFO:__main__:Extracting player slugs for >>> Stix
+2023-02-04 02:51:09,805:INFO:__main__:Extracting player slugs for >>> Skadoodle
+2023-02-04 02:51:09,997:INFO:__main__:Extracting player slugs for >>> Destrian
+2023-02-04 02:51:10,133:INFO:__main__:Extracting player slugs for >>> BabyJ
+2023-02-04 02:51:10,980:INFO:__main__:Extracting player slugs for >>> zyad
+2023-02-04 02:51:11,596:INFO:__main__:Extracting player slugs for >>> NLaaeR
+2023-02-04 02:51:12,151:INFO:__main__:Extracting player slugs for >>> dazzLe
+2023-02-04 02:51:12,278:INFO:__main__:Extracting player slugs for >>> XXiF
+2023-02-04 02:51:13,392:INFO:__main__:Extracting player slugs for >>> wait
+2023-02-04 02:51:13,510:INFO:__main__:Extracting player slugs for >>> Aleko
+2023-02-04 02:51:15,227:INFO:__main__:Extracting player slugs for >>> ban
+2023-02-04 02:51:15,382:INFO:__main__:Extracting player slugs for >>> Alyssa
+2023-02-04 02:51:15,477:INFO:__main__:Extracting player slugs for >>> Twisten
+2023-02-04 02:51:18,466:INFO:__main__:Extracting player slugs for >>> gaabxx
+2023-02-04 02:51:18,861:INFO:__main__:Extracting player slugs for >>> asteriskk
+2023-02-04 02:51:19,062:INFO:__main__:Extracting player slugs for >>> rDeeW
+2023-02-04 02:51:19,225:INFO:__main__:Extracting player slugs for >>> cath
+2023-02-04 02:51:25,501:INFO:__main__:Extracting player slugs for >>> Puleule
+2023-02-04 02:51:46,707:INFO:__main__:Queue: 99 | Crawled: 401 | Downloaded images: 450
+2023-02-04 02:51:46,707:INFO:__main__:Queue: 98 | Crawled: 402 | Downloaded images: 450
+2023-02-04 02:51:46,707:INFO:__main__:Queue: 97 | Crawled: 403 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 96 | Crawled: 404 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 95 | Crawled: 405 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 94 | Crawled: 406 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 93 | Crawled: 407 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 83 | Crawled: 417 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 91 | Crawled: 409 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 90 | Crawled: 410 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 89 | Crawled: 411 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 88 | Crawled: 412 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 87 | Crawled: 413 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 86 | Crawled: 414 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 85 | Crawled: 415 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 84 | Crawled: 416 | Downloaded images: 450
+2023-02-04 02:51:46,708:INFO:__main__:Queue: 92 | Crawled: 408 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 82 | Crawled: 418 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 81 | Crawled: 419 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 80 | Crawled: 420 | Downloaded images: 450
+2023-02-04 02:51:46,709:INFO:__main__:Queue: 79 | Crawled: 421 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 78 | Crawled: 422 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 77 | Crawled: 423 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 76 | Crawled: 424 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 75 | Crawled: 425 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 74 | Crawled: 426 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 73 | Crawled: 427 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 72 | Crawled: 428 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 71 | Crawled: 429 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 70 | Crawled: 430 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 69 | Crawled: 431 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 68 | Crawled: 432 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 67 | Crawled: 433 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 66 | Crawled: 434 | Downloaded images: 450
+2023-02-04 02:51:46,710:INFO:__main__:Queue: 65 | Crawled: 435 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 64 | Crawled: 436 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 63 | Crawled: 437 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 62 | Crawled: 438 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 61 | Crawled: 439 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 60 | Crawled: 440 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 59 | Crawled: 441 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 58 | Crawled: 442 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 57 | Crawled: 443 | Downloaded images: 450
+2023-02-04 02:51:46,711:INFO:__main__:Queue: 56 | Crawled: 444 | Downloaded images: 450
+2023-02-04 02:51:46,712:INFO:__main__:Queue: 55 | Crawled: 445 | Downloaded images: 450
+2023-02-04 02:51:46,712:INFO:__main__:Queue: 54 | Crawled: 446 | Downloaded images: 450
+2023-02-04 02:51:46,714:INFO:__main__:Queue: 53 | Crawled: 447 | Downloaded images: 450
+2023-02-04 02:51:46,714:INFO:__main__:Queue: 52 | Crawled: 448 | Downloaded images: 450
+2023-02-04 02:51:46,715:INFO:__main__:Queue: 51 | Crawled: 449 | Downloaded images: 450
+2023-02-04 02:51:46,715:INFO:__main__:Queue: 50 | Crawled: 450 | Downloaded images: 450
+2023-02-04 02:51:48,485:INFO:__main__:Extracting player slugs for >>> kon4n
+2023-02-04 02:51:48,860:INFO:__main__:Extracting player slugs for >>> YouBreak
+2023-02-04 02:51:48,880:INFO:__main__:Extracting player slugs for >>> Nurfed
+2023-02-04 02:51:52,148:INFO:__main__:Extracting player slugs for >>> lenne
+2023-02-04 02:51:52,861:INFO:__main__:Extracting player slugs for >>> Kehmicals
+2023-02-04 02:51:53,462:INFO:__main__:Extracting player slugs for >>> rise
+2023-02-04 02:51:53,737:INFO:__main__:Extracting player slugs for >>> cactuzio
+2023-02-04 02:51:54,591:INFO:__main__:Extracting player slugs for >>> Yurii
+2023-02-04 02:51:54,616:INFO:__main__:Extracting player slugs for >>> b3ta
+2023-02-04 02:51:55,098:INFO:__main__:Extracting player slugs for >>> Harmful
+2023-02-04 02:51:55,765:INFO:__main__:Extracting player slugs for >>> wayLander
+2023-02-04 02:51:55,854:INFO:__main__:Extracting player slugs for >>> Suka
+2023-02-04 02:51:56,263:INFO:__main__:Extracting player slugs for >>> liazzi
+2023-02-04 02:51:56,381:INFO:__main__:Extracting player slugs for >>> light
+2023-02-04 02:51:56,396:INFO:__main__:Extracting player slugs for >>> mle
+2023-02-04 02:51:56,546:INFO:__main__:Extracting player slugs for >>> autumn
+2023-02-04 02:51:56,663:INFO:__main__:Extracting player slugs for >>> BraveAF
+2023-02-04 02:51:56,761:INFO:__main__:Extracting player slugs for >>> vice
+2023-02-04 02:51:57,154:INFO:__main__:Extracting player slugs for >>> nataNk
+2023-02-04 02:51:57,376:INFO:__main__:Extracting player slugs for >>> isaa
+2023-02-04 02:51:57,463:INFO:__main__:Extracting player slugs for >>> Sylvan
+2023-02-04 02:51:57,469:INFO:__main__:Extracting player slugs for >>> Dreamas
+2023-02-04 02:51:57,869:INFO:__main__:Extracting player slugs for >>> AntiBiotique
+2023-02-04 02:51:58,384:INFO:__main__:Extracting player slugs for >>> Monyet
+2023-02-04 02:51:58,400:INFO:__main__:Extracting player slugs for >>> C0M
+2023-02-04 02:51:58,469:INFO:__main__:Extracting player slugs for >>> Cla
+2023-02-04 02:51:58,791:INFO:__main__:Extracting player slugs for >>> LiriLia
+2023-02-04 02:51:58,799:INFO:__main__:Extracting player slugs for >>> AloNeFillz
+2023-02-04 02:52:00,402:INFO:__main__:Extracting player slugs for >>> tucks
+2023-02-04 02:52:00,792:INFO:__main__:Extracting player slugs for >>> Reformed
+2023-02-04 02:52:00,984:INFO:__main__:Extracting player slugs for >>> Chibab
+2023-02-04 02:52:00,989:INFO:__main__:Extracting player slugs for >>> Buld
+2023-02-04 02:52:01,006:INFO:__main__:Extracting player slugs for >>> RUBINO
+2023-02-04 02:52:01,014:INFO:__main__:Extracting player slugs for >>> v1nNy
+2023-02-04 02:52:01,127:INFO:__main__:Extracting player slugs for >>> Bunny
+2023-02-04 02:52:01,147:INFO:__main__:Extracting player slugs for >>> QutionerX
+2023-02-04 02:52:01,429:INFO:__main__:Extracting player slugs for >>> Mited
+2023-02-04 02:52:01,514:INFO:__main__:Extracting player slugs for >>> athxna
+2023-02-04 02:52:01,555:INFO:__main__:Extracting player slugs for >>> Jeyj7y
+2023-02-04 02:52:01,902:INFO:__main__:Extracting player slugs for >>> Sliicyy
+2023-02-04 02:52:02,004:INFO:__main__:Extracting player slugs for >>> tayhuhu
+2023-02-04 02:52:02,113:INFO:__main__:Extracting player slugs for >>> BEAST
+2023-02-04 02:52:02,289:INFO:__main__:Extracting player slugs for >>> mina
+2023-02-04 02:52:02,585:INFO:__main__:Extracting player slugs for >>> Zoessie
+2023-02-04 02:52:03,061:INFO:__main__:Extracting player slugs for >>> Hyzee
+2023-02-04 02:52:03,407:INFO:__main__:Extracting player slugs for >>> Kadoom
+2023-02-04 02:52:03,544:INFO:__main__:Extracting player slugs for >>> minse
+2023-02-04 02:52:03,711:INFO:__main__:Extracting player slugs for >>> HellFull
+2023-02-04 02:52:04,800:INFO:__main__:Extracting player slugs for >>> Obnoks
+2023-02-04 02:52:11,820:INFO:__main__:Extracting player slugs for >>> skuba
+2023-02-04 02:52:40,727:INFO:__main__:Queue: 49 | Crawled: 451 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 48 | Crawled: 452 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 47 | Crawled: 453 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 46 | Crawled: 454 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 45 | Crawled: 455 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 44 | Crawled: 456 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 43 | Crawled: 457 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 42 | Crawled: 458 | Downloaded images: 500
+2023-02-04 02:52:40,728:INFO:__main__:Queue: 41 | Crawled: 459 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 40 | Crawled: 460 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 39 | Crawled: 461 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 38 | Crawled: 462 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 33 | Crawled: 467 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 36 | Crawled: 464 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 29 | Crawled: 471 | Downloaded images: 500
+2023-02-04 02:52:40,730:INFO:__main__:Queue: 28 | Crawled: 472 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 37 | Crawled: 463 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 32 | Crawled: 468 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 31 | Crawled: 469 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 30 | Crawled: 470 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 35 | Crawled: 465 | Downloaded images: 500
+2023-02-04 02:52:40,729:INFO:__main__:Queue: 34 | Crawled: 466 | Downloaded images: 500
+2023-02-04 02:52:40,730:INFO:__main__:Queue: 27 | Crawled: 473 | Downloaded images: 500
+2023-02-04 02:52:40,730:INFO:__main__:Queue: 26 | Crawled: 474 | Downloaded images: 500
+2023-02-04 02:52:40,730:INFO:__main__:Queue: 25 | Crawled: 475 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 24 | Crawled: 476 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 23 | Crawled: 477 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 20 | Crawled: 480 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 22 | Crawled: 478 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 21 | Crawled: 479 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 19 | Crawled: 481 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 18 | Crawled: 482 | Downloaded images: 500
+2023-02-04 02:52:40,731:INFO:__main__:Queue: 17 | Crawled: 483 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 16 | Crawled: 484 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 15 | Crawled: 485 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 14 | Crawled: 486 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 13 | Crawled: 487 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 12 | Crawled: 488 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 9 | Crawled: 491 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 10 | Crawled: 490 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 11 | Crawled: 489 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 8 | Crawled: 492 | Downloaded images: 500
+2023-02-04 02:52:40,732:INFO:__main__:Queue: 7 | Crawled: 493 | Downloaded images: 500
+2023-02-04 02:52:40,733:INFO:__main__:Queue: 6 | Crawled: 494 | Downloaded images: 500
+2023-02-04 02:52:40,733:INFO:__main__:Queue: 5 | Crawled: 495 | Downloaded images: 500
+2023-02-04 02:52:40,733:INFO:__main__:Queue: 4 | Crawled: 496 | Downloaded images: 500
+2023-02-04 02:52:40,733:INFO:__main__:Queue: 3 | Crawled: 497 | Downloaded images: 500
+2023-02-04 02:52:40,733:INFO:__main__:Queue: 2 | Crawled: 498 | Downloaded images: 500
+2023-02-04 02:52:40,734:INFO:__main__:Queue: 1 | Crawled: 499 | Downloaded images: 500
+2023-02-04 02:52:40,734:INFO:__main__:Queue: 0 | Crawled: 500 | Downloaded images: 500
+2023-02-04 02:52:40,744:INFO:CSVHandler:Done scraping. Saving to >> ./data//scraped_data_2023-02-04.xlsx
+2023-02-04 02:52:40,744:INFO:CSVHandler:Converting dictionary to dataframe...
+2023-02-04 02:52:44,252:INFO:CSVHandler:Records saved!
